@@ -1,0 +1,29 @@
+# Secrets
+.env
+.env.local
+*.key
+*.pem
+credentials.json
+token.json
+
+# Live data — goes stale the moment it is committed
+data-pipeline/live/
+data-pipeline/*-live.csv
+**/_private/
+
+# Generated
+*.log
+node_modules/
+__pycache__/
+.venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# Obsidian workspace state (keep the vault config if you want to share it)
+.obsidian/workspace*
+.obsidian/cache

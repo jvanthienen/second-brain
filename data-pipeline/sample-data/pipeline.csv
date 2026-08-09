@@ -1,0 +1,6 @@
+opportunity_id,account_id,account,name,stage,value_usd,close_date,last_activity,verified,as_of
+OPP-5512,ACC-1041,Northwind Analytics,Committed-spend renewal,Proposal,12000000,2026-08-31,2026-07-28,yes,2026-08-01
+OPP-5518,ACC-1041,Northwind Analytics,Marketplace transactability,Develop,400000,2026-10-31,2026-07-14,yes,2026-08-01
+OPP-5401,ACC-1041,Northwind Analytics,Prior-cycle renewal (superseded),Proposal,3000000,2026-06-30,2026-02-11,no,2026-08-01
+OPP-6203,ACC-2277,Tailspin Robotics,First committed-spend agreement,Qualify,2100000,2026-11-30,2026-08-04,yes,2026-08-01
+OPP-7150,ACC-3390,Relecloud Media,Analytics platform migration,Develop,800000,2026-09-30,2026-07-30,yes,2026-08-01

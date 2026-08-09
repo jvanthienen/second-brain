@@ -1,0 +1,4 @@
+account_id,account,commitment_usd,term_years,start_date,end_date,drawn_usd,pace_vs_curve,as_of
+ACC-1041,Northwind Analytics,12000000,3,2024-04-01,2027-03-31,8940000,+6%,2026-08-01
+ACC-2277,Tailspin Robotics,,,,,,,2026-08-01
+ACC-3390,Relecloud Media,4500000,2,2025-10-01,2027-09-30,1810000,-9%,2026-08-01
