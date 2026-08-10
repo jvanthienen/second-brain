@@ -98,4 +98,4 @@ Copy `.env.example` to `.env`. **It's gitignored — keep it that way.**
 | Silently overwrites instead of flagging contradictions | The highest-value rule in the schema. Re-read that section together. |
 | Pages full of numbers | The "would you filter all accounts by this?" test isn't being applied. |
 | Everything is an orphan | It's not adding `[[wikilinks]]`. Check the Cross-links section. |
-| Wrong voice | `docs/voice.md` not being read, or too vague to act on. |
+| Wrong voice | `docs/soul.md` not being read, or too vague to act on. |

@@ -1,6 +1,6 @@
 # Playbook — Team update
 
-Read [`docs/voice.md`](../docs/voice.md) first.
+Read [`docs/soul.md`](../docs/soul.md) first.
 
 For your working team. Posted to chat. **~200 words.** More operational than the
 [exec summary](exec-summary.md) — this one assigns work.

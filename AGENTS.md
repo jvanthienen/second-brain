@@ -219,7 +219,7 @@ These matter more than anything else here.
 - **The human owns sourcing and questions. The agent owns bookkeeping.** Summarizing,
   cross-referencing, filing, and consistency — that's the agent's job, and it's the job humans
   abandon wikis over.
-- **Read [`docs/voice.md`](docs/voice.md) before producing any written artifact**, then the
+- **Read [`docs/soul.md`](docs/soul.md) before producing any written artifact**, then the
   matching format spec in [`playbooks/`](playbooks/).
 - **Default to the short version.**
 
@@ -237,5 +237,5 @@ These matter more than anything else here.
 | Catalog of every page | [`wiki/index.md`](wiki/index.md) |
 | What happened when | [`wiki/log.md`](wiki/log.md) |
 | Source documents | [`raw/`](raw/) — immutable |
-| How to write something | [`docs/voice.md`](docs/voice.md) + [`playbooks/`](playbooks/) |
+| How to write something | [`docs/soul.md`](docs/soul.md) + [`playbooks/`](playbooks/) |
 | What an agent does | [`automations/`](automations/) |

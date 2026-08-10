@@ -1,6 +1,6 @@
 # Playbook — Email
 
-Read [`docs/voice.md`](../docs/voice.md) first. **Default to the short version.**
+Read [`docs/soul.md`](../docs/soul.md) first. **Default to the short version.**
 
 ---
 

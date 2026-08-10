@@ -1,57 +1,49 @@
-# Playbook — Executive summary
+# Executive summary format
 
-Read [`docs/voice.md`](../docs/voice.md) first.
+> Voice rules come from [`../docs/soul.md`](../docs/soul.md) — this file only covers structure.
 
-For leadership. **~150 words.** The discipline of the limit is the point — if everything is
-included, nothing is emphasized.
+For leadership. **Default to the TL;DR alone.** Add sections only when the audience needs them.
 
 ---
 
 ## Structure
 
-```
-[Headline: the one sentence that matters.]
+**1. TL;DR — 3 bullets max**
+- Lead with what changed this period
+- Highlight the win or the risk
+- End with asks / decisions needed
 
-[Situation: 2–3 sentences. What changed, with the number that proves it.]
+**2. Activity this period** *(table)*
+Workstream | Initiative | Status | Owner | Next step | Target date
 
-[Risk or opportunity: the thing they'd be annoyed to hear late.]
+**3. Risks & blockers** *(table)*
+Risk | Impact | Mitigation | Owner
 
-ASK: [Specific, named, dated. Or "none — informational".]
-```
+**4. Upcoming** *(table)*
+Date | Meeting | Why it matters
 
 ---
 
 ## Rules
 
-- **Outcome first.** Never open with process or background.
+- **The TL;DR is the deliverable.** Sections 2–4 are appendices. If someone reads only the three
+  bullets, they should have the whole picture.
+- **Lead with what changed, end with asks.**
+- **One number per item**, not five. Pick the one that carries the argument.
+- **Name the risk explicitly.** Leadership assumes anything unmentioned is fine.
+- **Every ask has a named owner and a real date.** An ask without an owner is an observation.
 - **No internal jargon.** If it needs a glossary, rewrite it.
-- **One number, not five.** Pick the one that carries the argument.
-- **Name the risk explicitly.** Executives assume anything unmentioned is fine.
-- **The ask is the point.** If there genuinely isn't one, say "informational" so they can stop
-  looking for it.
-- **Never pad to look thorough.** Two real items beat eight filler ones.
+- **Don't pad to look thorough.** Two real items beat eight filler ones, and the room can tell.
 
 ---
 
-## Example
+## Example TL;DR
 
-```
-Monthly — West / Emerging Enterprise · July
+> - **Competitor now at two of three accounts** — both entered through finance, not engineering
+> - **Northwind renewal reframed** — buyer wants term flexibility, not discount; proposal being
+>   rebuilt
+> - **Ask:** executive sponsor for Tailspin this quarter — their CTO has never met anyone above
+>   the account lead
 
-Consumption is tracking to plan; the year now rests on two decisions.
-
-Northwind ($12M renewal, March) is running a cost-optimization review in
-parallel with the renewal. Their CFO joins the next QBR — our first access to
-the person who signs. Positive, but later than it should be.
-
-Tailspin, our fastest-growing account, has no commitment agreement and a
-competitor is targeting its training workload with aggressive GPU pricing. Our
-champion prefers to stay; the commercial case isn't built. This is the most
-immediate risk in the territory.
-
-ASK: an executive sponsor for Tailspin. Their CTO has never met anyone from our
-side above me, and that gap is now being exploited.
-```
-
-**Why this works:** headline in the first line, one number per account, the risk named without
-hedging, and an ask that's specific enough to action in a single reply.
+**Why this works:** the first bullet is a pattern, not an event. The second says what changed and
+what's being done. The third is specific enough to action in a single reply.

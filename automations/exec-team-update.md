@@ -40,7 +40,7 @@ newsworthy than a meeting that happened.
 
 ### 3. Write to the format
 Use the matching spec in [`../playbooks/`](../playbooks/) — read
-[`../docs/voice.md`](../docs/voice.md) first. **Default to the short version.**
+[`../docs/soul.md`](../docs/soul.md) first. **Default to the short version.**
 
 ### 4. Pull the asks forward
 Named owner, specific request, real date. An update with no ask is a status report.
@@ -119,6 +119,6 @@ Good closer — it produces something tangible, in your voice, that lands in a r
 Run it live and send it to yourself. Most chat tools have a self-message channel; it's a real
 API call with no recipients to worry about.
 
-Then show [`../docs/voice.md`](../docs/voice.md) and point out the tone came from a file. That's
+Then show [`../docs/soul.md`](../docs/soul.md) and point out the tone came from a file. That's
 the moment the audience sees the output is configurable rather than generic — the most
 transferable idea in the session.
