@@ -1,6 +1,6 @@
 # Sofia Marchetti
 
-> **Person page.** VP Engineering, [[Northwind Analytics]].
+> **Person page.** VP Engineering, [[Nike]].
 >
 > **Last reviewed:** 2026-07-29 · **Sources:** 2
 
@@ -8,7 +8,7 @@
 
 ## Who she is
 
-VP Engineering at [[Northwind Analytics]]. Reports to [[Rachel Kim]]. Our strongest advocate
+VP Engineering at [[Nike]]. Reports to [[Rachel Kim]]. Our strongest advocate
 anywhere in the portfolio.
 
 ## What we know
@@ -30,11 +30,11 @@ anyone has given us on this account.
 
 ## Risk
 
-Our senior relationship at Northwind runs entirely through her. If she left, we would have no
+Our senior relationship at Nike runs entirely through her. If she left, we would have no
 advocate above the platform team — see [[Champion Dependency Risk]].
 
 ---
 
 ## Related
 
-[[Northwind Analytics]] · [[Rachel Kim]] · [[Daniel Osei]] · [[Champion Dependency Risk]]
+[[Nike]] · [[Rachel Kim]] · [[Daniel Osei]] · [[Champion Dependency Risk]]

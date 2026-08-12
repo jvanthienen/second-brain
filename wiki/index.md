@@ -15,9 +15,9 @@
 
 | Page | Summary | Reviewed |
 |---|---|---|
-| [[Northwind Analytics]] | Largest account. Renewal March 2027. No relationship with the signer. | 2026-07-29 |
-| [[Tailspin Robotics]] | Fastest growth, no commitment. [[Vertex Cloud]] actively displacing. | 2026-08-05 |
-| [[Relecloud Media]] | Flat. One migration decision is the entire growth case. | 2026-07-31 |
+| [[Nike]] | Largest account. Renewal March 2027. No relationship with the signer. | 2026-07-29 |
+| [[Patagonia]] | Fastest growth, no commitment. [[Vertex Cloud]] actively displacing. | 2026-08-05 |
+| [[Nordstrom]] | Flat. One migration decision is the entire growth case. | 2026-07-31 |
 
 ## Backgrounders
 
@@ -25,8 +25,8 @@
 
 | Page | Summary | Reviewed |
 |---|---|---|
-| [[Northwind Analytics - Backgrounder]] | Data-pipeline platform, ~1,800 customers, public offering signalled 2027. | 2026-06-05 |
-| [[Tailspin Robotics - Backgrounder]] | Warehouse automation. Compute scales with fleet, not revenue. | 2026-07-10 |
+| [[Nike - Backgrounder]] | Global sportswear brand, consumer-data analytics on us, board-level cost transformation. | 2026-06-05 |
+| [[Patagonia - Backgrounder]] | Outdoor apparel. Compute scales with model training, not revenue. | 2026-07-10 |
 
 ## Motions
 
@@ -35,7 +35,7 @@
 | Page | Summary | Accounts |
 |---|---|---|
 | [[Committed-Spend Renewal]] | The primary commercial motion, in three different states. | 3 |
-| [[Egress Cost Proposal]] | Technical answer to Northwind's presumed main objection. | 1 |
+| [[Egress Cost Proposal]] | Technical answer to Nike's presumed main objection. | 1 |
 
 ## Patterns
 
@@ -52,19 +52,19 @@
 
 | Page | Severity | Target |
 |---|---|---|
-| [[Relecloud Incumbent Preference]] | Blocking revenue | 2026-09-30 |
-| [[Northwind Marketplace Listing Stalled]] | Slowing progress | none set |
+| [[Nordstrom Incumbent Preference]] | Blocking revenue | 2026-09-30 |
+| [[Nike Marketplace Listing Stalled]] | Slowing progress | none set |
 
 ## People
 
 | Page | Who | Account |
 |---|---|---|
-| [[Rachel Kim]] | CFO — signs the renewal. Never met. | Northwind |
-| [[Sofia Marchetti]] | VP Engineering. Strongest advocate in the portfolio. | Northwind |
-| [[Daniel Osei]] | Head of Data Platform. Won over by the migration. | Northwind |
-| [[Tom Bradley]] | Procurement. Process, not intent. | Northwind |
-| [[Kai Nakamura]] | Head of ML Infrastructure. Champion, no budget. | Tailspin |
-| [[Fatima Al-Rashid]] | Head of Data. Evaluator, not blocker. | Relecloud |
+| [[Rachel Kim]] | CFO — signs the renewal. Never met. | Nike |
+| [[Sofia Marchetti]] | VP Engineering. Strongest advocate in the portfolio. | Nike |
+| [[Daniel Osei]] | Head of Data Platform. Won over by the migration. | Nike |
+| [[Tom Bradley]] | Procurement. Process, not intent. | Nike |
+| [[Kai Nakamura]] | Head of ML Infrastructure. Champion, no budget. | Patagonia |
+| [[Fatima Al-Rashid]] | Head of Data. Evaluator, not blocker. | Nordstrom |
 
 ## Companies
 
@@ -78,7 +78,7 @@
 
 Surfaced by the last lint pass (2026-08-05):
 
-- Is the [[Northwind Analytics]] instance of [[Commitment Flexibility vs Discount Depth]] real,
+- Is the [[Nike]] instance of [[Commitment Flexibility vs Discount Depth]] real,
   or are we pattern-matching? Currently inference, not evidence.
 - Has anyone in finance actually raised egress, or is it entirely relayed through
   [[Daniel Osei]]? See [[Egress Cost Proposal]].

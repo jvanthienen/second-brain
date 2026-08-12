@@ -39,23 +39,23 @@ ASKS
 ## Example
 
 ```
-📌 Weekly — Sam's accounts · week ending 8 Aug
+📌 Weekly — Josefina's accounts · week ending 8 Aug
 
 WHAT MOVED
-• Northwind — Rachel Kim (CFO) is attending the next QBR. First time. She
+• Nike — Rachel Kim (CFO) is attending the next QBR. First time. She
   signs the $12M renewal in March and we have no relationship with her.
-• Tailspin — competitor GPU pricing confirmed by our champion. Same training
+• Patagonia — competitor GPU pricing confirmed by our champion. Same training
   workload we've been optimizing since June.
 
 WHAT'S STUCK
-• Northwind marketplace listing — four months, stalled on their resourcing.
+• Nike marketplace listing — four months, stalled on their resourcing.
   Not technical, so escalation is the only lever.
-• Relecloud migration decision slipped to end of September. Their data team
+• Nordstrom migration decision slipped to end of September. Their data team
   prefers the incumbent and we haven't answered two of their objections.
 
 ASKS
 • @Priya — inference optimization proposal by Thu 14th. It's the competitive
   response now, not just a cost exercise.
 • @Marcus — escalate the marketplace listing to their VP Eng?
-• @Lena — anything from your side on Relecloud's data team?
+• @Lena — anything from your side on Nordstrom's data team?
 ```

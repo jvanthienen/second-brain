@@ -32,12 +32,12 @@ Six seeded sources spanning June to August 2026, plus one waiting in `_inbox/`.
 
 | Date | Source | Account |
 |---|---|---|
-| 2026-06-02 | Renewal kickoff notes | Northwind |
-| 2026-06-19 | Migration go-live call | Northwind |
-| 2026-07-08 | Capacity planning session | Tailspin |
-| 2026-07-16 | Data team workshop | Relecloud |
-| 2026-07-28 | Quarterly business review | Northwind |
-| 2026-08-04 | Infrastructure sync | Tailspin |
-| **2026-08-07** | **CFO pre-brief — in `_inbox/`** | **Northwind** |
+| 2026-06-02 | Renewal kickoff notes | Nike |
+| 2026-06-19 | Migration go-live call | Nike |
+| 2026-07-08 | Demand planning session | Patagonia |
+| 2026-07-16 | Data team workshop | Nordstrom |
+| 2026-07-28 | Quarterly business review | Nike |
+| 2026-08-04 | Infrastructure sync | Patagonia |
+| **2026-08-07** | **CFO pre-brief — in `_inbox/`** | **Nike** |
 
 All fictional.

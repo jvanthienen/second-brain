@@ -1,6 +1,6 @@
 # Fatima Al-Rashid
 
-> **Person page.** Head of Data, [[Relecloud Media]].
+> **Person page.** Head of Data, [[Nordstrom]].
 >
 > **Last reviewed:** 2026-07-17 · **Sources:** 1
 
@@ -8,7 +8,7 @@
 
 ## Who she is
 
-Head of Data at [[Relecloud Media]]. Prefers the incumbent analytics tool and is the deciding
+Head of Data at [[Nordstrom]]. Prefers the incumbent analytics tool and is the deciding
 voice on the migration.
 
 ## What we know
@@ -41,5 +41,5 @@ matter.
 
 ## Related
 
-[[Relecloud Media]] · [[Relecloud Incumbent Preference]] ·
+[[Nordstrom]] · [[Nordstrom Incumbent Preference]] ·
 [[Commitment Flexibility vs Discount Depth]]

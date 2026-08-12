@@ -40,9 +40,9 @@ Date | Meeting | Why it matters
 ## Example TL;DR
 
 > - **Competitor now at two of three accounts** — both entered through finance, not engineering
-> - **Northwind renewal reframed** — buyer wants term flexibility, not discount; proposal being
+> - **Nike renewal reframed** — buyer wants term flexibility, not discount; proposal being
 >   rebuilt
-> - **Ask:** executive sponsor for Tailspin this quarter — their CTO has never met anyone above
+> - **Ask:** executive sponsor for Patagonia this quarter — their CTO has never met anyone above
 >   the account lead
 
 **Why this works:** the first bullet is a pattern, not an event. The second says what changed and

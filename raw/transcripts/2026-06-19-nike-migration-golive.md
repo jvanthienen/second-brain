@@ -1,9 +1,9 @@
-# Northwind Analytics — managed database migration go-live
+# Nike — managed database migration go-live
 
 **Date:** 2026-06-19
 **Type:** Transcript (edited for length)
 **Attendees:** Daniel Osei (Head of Data Platform), Sofia Marchetti (VP Engineering),
-Priya Raman (SE), Sam Rivera
+Priya Raman (SE), Josefina Van Thienen
 **Duration:** 45 min
 
 ---
@@ -21,12 +21,12 @@ go away. I want a month of data before I claim it publicly, but directionally, y
 
 **Sofia:** Good. That was the thing I was most tired of hearing about.
 
-**Sam:** Anything still open from your side?
+**Josefina:** Anything still open from your side?
 
 **Daniel:** One thing, and it's not a migration issue. Our egress costs went up again last
 month. It's not enormous but it's the line item that keeps getting flagged in reviews.
 
-**Sam:** Flagged by whom?
+**Josefina:** Flagged by whom?
 
 **Daniel:** Finance. It comes up every quarter. I don't think anyone believes it's a real
 problem, it's just the number that's easiest to point at.
@@ -43,7 +43,7 @@ kill it as a topic.
 
 - Priya: egress optimization proposal
 - Daniel: review, then take to finance
-- Sam: include in the September renewal outline
+- Josefina: include in the September renewal outline
 
 ## My read
 

@@ -1,4 +1,4 @@
-# Automations — the six agents
+# Automations — the agents
 
 These sit **on top of the wiki**. They read it, and they write back into it — which means every
 run makes the wiki richer rather than producing a throwaway artifact.
@@ -18,6 +18,8 @@ agent that generates a brief *and files what it learned* is part of the brain.
 | [Pre-Meeting Prep](pre-meeting-prep.md) | 30 min before | Calendar + `wiki/` | Chat brief |
 | [Pipeline Review](pipeline-review.md) | Weekly Fri 4 PM | CRM + `wiki/` | **Drafts only** |
 | [Exec & Team Update](exec-team-update.md) | Weekly / monthly | `wiki/` + calendar | **Drafts only** |
+| [Daily Capture](daily-capture.md) | Daily 6:00 PM | Your meetings folder | `raw/_inbox/` + digest |
+| [Chief of Staff](chief-of-staff.md) | Always | Everything | The role that runs all of the above |
 
 ---
 

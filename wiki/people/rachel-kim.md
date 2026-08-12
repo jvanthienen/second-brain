@@ -1,6 +1,6 @@
 # Rachel Kim
 
-> **Person page.** CFO, [[Northwind Analytics]].
+> **Person page.** CFO, [[Nike]].
 >
 > **Last reviewed:** 2026-07-29 · **Sources:** 2 (both indirect)
 
@@ -8,7 +8,7 @@
 
 ## Who she is
 
-CFO at [[Northwind Analytics]]. Signs the renewal.
+CFO at [[Nike]]. Signs the renewal.
 
 **We have never met.** Everything on this page is second-hand.
 
@@ -28,7 +28,7 @@ Almost everything that matters:
 - [ ] What she actually cares about in this renewal
 - [ ] Her view on the cost-optimization review
 - [ ] Whether she has vendor preferences from prior roles
-- [ ] How the public offering preparation shapes her decision-making
+- [ ] How the board-level cost transformation shapes her decision-making
 
 ## Why she matters
 
@@ -40,5 +40,5 @@ portfolio.
 
 ## Related
 
-[[Northwind Analytics]] · [[Northwind Analytics - Backgrounder]] · [[Sofia Marchetti]] ·
+[[Nike]] · [[Nike - Backgrounder]] · [[Sofia Marchetti]] ·
 [[Committed-Spend Renewal]]

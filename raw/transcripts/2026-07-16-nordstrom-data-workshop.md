@@ -1,9 +1,9 @@
-# Relecloud Media — data team workshop
+# Nordstrom — data team workshop
 
 **Date:** 2026-07-16
 **Type:** Transcript (edited)
 **Attendees:** Fatima Al-Rashid (Head of Data), Oliver Grant (Director, Platform Engineering),
-Priya Raman (SE), Sam Rivera
+Priya Raman (SE), Josefina Van Thienen
 **Duration:** 90 min
 
 ---
@@ -13,7 +13,7 @@ Priya Raman (SE), Sam Rivera
 **Fatima:** I'll be direct. I don't think we should do this, and I want to explain why rather
 than just blocking it.
 
-**Sam:** Please.
+**Josefina:** Please.
 
 **Fatima:** Three things. First, my team knows the incumbent tool. Retraining eight analysts
 costs us a quarter of productivity. Second, we have four years of saved queries and dashboards
@@ -30,7 +30,7 @@ seen an equivalent.
 **Fatima:** Those are real costs. I'm not saying they're disqualifying. I'm saying nobody has
 put a number on them and the proposal reads as though they're zero.
 
-**Sam:** That's fair.
+**Josefina:** That's fair.
 
 **Fatima:** I'd also point out we committed to a two-year agreement and we're under-consuming it.
 Adding more scope to a commitment we're not using feels backwards.
@@ -42,7 +42,7 @@ Adding more scope to a commitment we're not using feels backwards.
 ## Actions
 
 - Priya: demonstrate the materialization equivalent
-- Sam: put actual numbers on retraining and rebuild costs
+- Josefina: put actual numbers on retraining and rebuild costs
 - Oliver: raise the under-consumption question with finance
 
 ## My read

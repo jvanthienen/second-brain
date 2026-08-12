@@ -14,7 +14,7 @@ A meaningful source touches **8–15 pages**. If it only touched two, it was und
 
 ## Currently waiting
 
-`2026-08-07-northwind-cfo-prebrief.md`
+`2026-08-07-nike-cfo-prebrief.md`
 
 This one is left here deliberately for the demo. Ingesting it contradicts two claims the wiki
 currently treats as settled, and creates one new page.

@@ -82,4 +82,4 @@ Goal: [one sentence]
 | Five agenda items, no times | Three items, time-boxed, summing to 30 min |
 | Goal that restates the meeting title | Goal that states what changes because the meeting happened |
 | Facilitator notes pasted into the invite | Facilitator notes kept in the prep doc |
-| "Sync on Northwind" | "Northwind × Us — renewal structure working session" |
+| "Sync on Nike" | "Nike × Us — renewal structure working session" |

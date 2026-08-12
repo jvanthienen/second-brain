@@ -22,17 +22,17 @@ Worked example — the CFO pre-brief in `raw/_inbox/` should touch:
 
 | Page | What changes |
 |---|---|
-| `accounts/northwind-analytics` | State of play, two contradictions, threads re-prioritized |
+| `accounts/nike` | State of play, two contradictions, threads re-prioritized |
 | `people/rachel-kim` | Rewritten — first real intel on the economic buyer |
 | `people/tom-bradley` | His June characterization is now known to be wrong |
 | `people/daniel-osei` | Flight risk |
 | `people/sofia-marchetti` | Confirmed as the highest-value relationship |
 | `motions/egress-cost-proposal` | Downgraded — aimed at an objection nobody has |
-| `motions/committed-spend-renewal` | Northwind's real blocker identified |
-| `patterns/commitment-flexibility-vs-discount-depth` | Northwind promoted from inference to evidence |
+| `motions/committed-spend-renewal` | Nike's real blocker identified |
+| `patterns/commitment-flexibility-vs-discount-depth` | Nike promoted from inference to evidence |
 | `patterns/champion-dependency-risk` | New instance |
 | `companies/vertex-cloud` | Now at two accounts, same entry route |
-| `blockers/northwind-marketplace-listing-stalled` | Recommend closing |
+| `blockers/nike-marketplace-listing-stalled` | Recommend closing |
 | `index.md`, `log.md` | Registration and timeline |
 
 One source. Twelve pages. Two things the wiki believed turn out to be wrong.

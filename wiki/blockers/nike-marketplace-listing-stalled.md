@@ -1,4 +1,4 @@
-# Northwind Marketplace Listing Stalled
+# Nike Marketplace Listing Stalled
 
 > **Blocker page.** Archive when resolved.
 >
@@ -8,14 +8,15 @@
 
 ## What's blocked
 
-[[Northwind Analytics]] is listed but not transactable. Co-sell paperwork was submitted in
-April; the engineering work on their side has not been scheduled.
+[[Nike]]'s partner data-sharing listing on our marketplace is live but not transactable.
+Co-sell paperwork was submitted in April; the engineering work on their side has not been
+scheduled.
 
 Scope: this affects the channel motion only. It does not block the renewal or any consumption.
 
 ## Why
 
-Not technical. Their engineering capacity is allocated elsewhere and nobody senior at Northwind
+Not technical. Their engineering capacity is allocated elsewhere and nobody senior at Nike
 is asking for this.
 
 We have been treating it as a task that needs chasing. It is more accurately a prioritization
@@ -35,7 +36,7 @@ decision that has already been made, silently, against us.
 ## What has not been tried
 
 - Escalating to [[Sofia Marchetti]] directly and asking her to resource it
-- Establishing whether it matters to anyone at Northwind, or only to us
+- Establishing whether it matters to anyone at Nike, or only to us
 - Putting a target date on it at all
 
 ## Impact if unresolved
@@ -53,4 +54,4 @@ rather than carrying it.
 
 ## Related
 
-[[Northwind Analytics]] · [[Sofia Marchetti]] · [[Daniel Osei]]
+[[Nike]] · [[Sofia Marchetti]] · [[Daniel Osei]]

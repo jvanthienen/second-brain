@@ -7,9 +7,9 @@
 
 ---
 
-## [2026-06-05] ingest | Northwind renewal kickoff (2026-06-02)
+## [2026-06-05] ingest | Nike renewal kickoff (2026-06-02)
 
-Created [[Northwind Analytics]], [[Northwind Analytics - Backgrounder]], [[Tom Bradley]],
+Created [[Nike]], [[Nike - Backgrounder]], [[Tom Bradley]],
 [[Rachel Kim]].
 
 Recorded the cost-optimization review as low risk per Tom Bradley's characterization.
@@ -19,9 +19,9 @@ Noted the CFO relationship gap.
 
 ---
 
-## [2026-06-20] ingest | Northwind migration go-live (2026-06-19)
+## [2026-06-20] ingest | Nike migration go-live (2026-06-19)
 
-Updated [[Northwind Analytics]] — technical section, state of play. Created [[Daniel Osei]],
+Updated [[Nike]] — technical section, state of play. Created [[Daniel Osei]],
 [[Sofia Marchetti]], [[Egress Cost Proposal]].
 
 Egress identified as the main commercial objection based on three separate mentions.
@@ -30,9 +30,9 @@ Egress identified as the main commercial objection based on three separate menti
 
 ---
 
-## [2026-07-10] ingest | Tailspin capacity planning (2026-07-08)
+## [2026-07-10] ingest | Patagonia demand planning (2026-07-08)
 
-Created [[Tailspin Robotics]], [[Tailspin Robotics - Backgrounder]], [[Kai Nakamura]].
+Created [[Patagonia]], [[Patagonia - Backgrounder]], [[Kai Nakamura]].
 
 First observation of the commitment-flexibility dynamic — Ana Petrov declining commitment for
 optionality rather than price. Logged as a single instance; not yet a pattern.
@@ -41,9 +41,9 @@ optionality rather than price. Logged as a single instance; not yet a pattern.
 
 ---
 
-## [2026-07-17] ingest | Relecloud data workshop (2026-07-16)
+## [2026-07-17] ingest | Nordstrom data workshop (2026-07-16)
 
-Created [[Relecloud Media]], [[Fatima Al-Rashid]], [[Relecloud Incumbent Preference]].
+Created [[Nordstrom]], [[Fatima Al-Rashid]], [[Nordstrom Incumbent Preference]].
 
 Second instance of the commitment dynamic — under-consumption cited as a reason not to expand.
 **Promoted to a pattern:** created [[Commitment Flexibility vs Discount Depth]].
@@ -55,10 +55,10 @@ objections, one of which is factually wrong.
 
 ---
 
-## [2026-07-29] ingest | Northwind QBR (2026-07-28)
+## [2026-07-29] ingest | Nike QBR (2026-07-28)
 
-Updated [[Northwind Analytics]], [[Rachel Kim]], [[Sofia Marchetti]], [[Daniel Osei]],
-[[Tom Bradley]], [[Egress Cost Proposal]], [[Northwind Marketplace Listing Stalled]].
+Updated [[Nike]], [[Rachel Kim]], [[Sofia Marchetti]], [[Daniel Osei]],
+[[Tom Bradley]], [[Egress Cost Proposal]], [[Nike Marketplace Listing Stalled]].
 
 [[Rachel Kim]] confirmed for the next QBR — first access to the economic buyer.
 
@@ -70,14 +70,14 @@ too weak. **Worth watching.**
 
 ---
 
-## [2026-08-05] ingest | Tailspin infrastructure sync (2026-08-04)
+## [2026-08-05] ingest | Patagonia infrastructure sync (2026-08-04)
 
 Created [[Vertex Cloud]], [[Champion Dependency Risk]].
-Updated [[Tailspin Robotics]], [[Kai Nakamura]], [[Committed-Spend Renewal]],
+Updated [[Patagonia]], [[Kai Nakamura]], [[Committed-Spend Renewal]],
 [[Commitment Flexibility vs Discount Depth]], index.
 
 Competitive displacement confirmed. Entry route was finance-first with a VP in week one, which
-maps onto the coverage gap at both [[Tailspin Robotics]] and [[Northwind Analytics]] —
+maps onto the coverage gap at both [[Patagonia]] and [[Nike]] —
 **promoted to a pattern.**
 
 **Pages touched:** 2 created, 5 updated
@@ -88,7 +88,7 @@ maps onto the coverage gap at both [[Tailspin Robotics]] and [[Northwind Analyti
 
 - 17 pages, no orphans
 - 3 open questions surfaced to [[index.md]]
-- [[Northwind Analytics]] instance of [[Commitment Flexibility vs Discount Depth]] is inference,
+- [[Nike]] instance of [[Commitment Flexibility vs Discount Depth]] is inference,
   not evidence — flagged
 - [[Egress Cost Proposal]] rests entirely on relayed claims — flagged
-- [[Northwind Marketplace Listing Stalled]] has no target date and no owner on their side
+- [[Nike Marketplace Listing Stalled]] has no target date and no owner on their side

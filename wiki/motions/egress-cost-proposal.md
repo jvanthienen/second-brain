@@ -8,7 +8,7 @@
 
 ## What this is
 
-A technical proposal to reduce [[Northwind Analytics]]' data egress costs through regional
+A technical proposal to reduce [[Nike]]'s data egress costs through regional
 caching and routing changes. Due 2026-08-20.
 
 Positioned as the answer to what we believe is the main commercial objection ahead of the
@@ -20,7 +20,7 @@ renewal.
 
 | Account | Position |
 |---|---|
-| [[Northwind Analytics]] | Drafted, due 08-20, routes to finance via [[Daniel Osei]] |
+| [[Nike]] | Drafted, due 08-20, routes to finance via [[Daniel Osei]] |
 
 ---
 
@@ -47,4 +47,4 @@ We have never heard it from anyone in finance directly.
 
 ## Related
 
-[[Northwind Analytics]] · [[Daniel Osei]] · [[Committed-Spend Renewal]]
+[[Nike]] · [[Daniel Osei]] · [[Committed-Spend Renewal]]

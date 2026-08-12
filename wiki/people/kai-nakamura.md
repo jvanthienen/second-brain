@@ -1,6 +1,6 @@
 # Kai Nakamura
 
-> **Person page.** Head of ML Infrastructure, [[Tailspin Robotics]].
+> **Person page.** Head of ML Infrastructure, [[Patagonia]].
 >
 > **Last reviewed:** 2026-08-05 · **Sources:** 2
 
@@ -8,7 +8,7 @@
 
 ## Who he is
 
-Head of ML Infrastructure at [[Tailspin Robotics]]. Decides the technical stack in practice.
+Head of ML Infrastructure at [[Patagonia]]. Decides the technical stack in practice.
 Does not control budget, and says so plainly.
 
 ## What we know
@@ -33,12 +33,12 @@ correct. He is not managing us.
 
 ## Risk
 
-He is the relationship. There is no second technical advocate at Tailspin and no executive
+He is the relationship. There is no second technical advocate at Patagonia and no executive
 coverage above him — see [[Champion Dependency Risk]].
 
 ---
 
 ## Related
 
-[[Tailspin Robotics]] · [[Tailspin Robotics - Backgrounder]] · [[Vertex Cloud]] ·
+[[Patagonia]] · [[Patagonia - Backgrounder]] · [[Vertex Cloud]] ·
 [[Champion Dependency Risk]] · [[Commitment Flexibility vs Discount Depth]]

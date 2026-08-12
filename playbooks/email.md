@@ -24,7 +24,7 @@ Subject: [what it's about — specific, no "Follow-up" or "Touching base"]
 
 ## Rules
 
-- **Subject lines carry information.** "Northwind renewal — CFO joining the QBR" not "Quick
+- **Subject lines carry information.** "Nike renewal — CFO joining the QBR" not "Quick
   update".
 - **No preamble.** Delete "I hope this finds you well" and "I wanted to reach out".
 - **One ask per email.** Two asks means one gets ignored — and you don't choose which.
@@ -36,7 +36,7 @@ Subject: [what it's about — specific, no "Follow-up" or "Touching base"]
 ## Example — customer, exec
 
 ```
-Subject: Northwind renewal — proposal for the September review
+Subject: Nike renewal — proposal for the September review
 
 Rachel,
 
@@ -52,17 +52,17 @@ handle the egress costs Daniel raised.
 Could we take 30 minutes before your September review? I'm flexible the week of
 the 14th.
 
-Sam
+Josefina
 ```
 
 ## Example — internal, ask
 
 ```
-Subject: Tailspin — need an exec sponsor
+Subject: Patagonia — need an exec sponsor
 
 Dana,
 
-A competitor is targeting Tailspin's training workload with aggressive GPU
+A competitor is targeting Patagonia's training workload with aggressive GPU
 pricing. Our champion confirmed it on the 4th and prefers to stay with us, but
 their CTO has never met anyone from our side above me.
 
@@ -72,5 +72,5 @@ Can you introduce Ana Petrov (CTO) to someone at VP level this quarter? I'd
 suggest tying it to the inference-optimization work — it gives the meeting a
 reason to exist beyond relationship-building.
 
-Sam
+Josefina
 ```

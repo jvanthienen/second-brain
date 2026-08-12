@@ -1,7 +1,7 @@
-# Northwind Analytics
+# Nike
 
 > **Living page — what's happening now.** For who they are, see
-> [[Northwind Analytics - Backgrounder]]. Hard figures live in the data layer, not here.
+> [[Nike - Backgrounder]]. Hard figures live in the data layer, not here.
 >
 > **Last reviewed:** 2026-07-29 · **Sources:** 3
 
@@ -19,7 +19,7 @@ signature. Everything else on this page is secondary to that.
 ## Current state
 
 Consumption is up 18% year over year and drawdown is running ahead of the commitment curve. The
-technical story is the strongest it has been: the managed database migration went live in June
+technical story is the strongest it has been: the consumer-data analytics platform migration went live in June
 and cut on-call volume by roughly a third, which removed the account's longest-standing
 complaint. [[Daniel Osei]] is now willing to say so publicly, which he wasn't three months ago.
 
@@ -47,7 +47,8 @@ surfaced in three separate conversations and finance reportedly flags it every q
 
 ## Technical
 
-Managed database migration completed 2026-06-19 and is the reference point for the relationship.
+The consumer-data analytics platform migration completed 2026-06-19 and is the reference point
+for the relationship.
 Twelve services cut over with no rollbacks.
 
 Remaining technical friction is egress cost, which is architectural rather than pricing —
@@ -70,10 +71,10 @@ regional caching is the main lever.
 
 | Thread | Owner | Status | Next step |
 |---|---|---|---|
-| Renewal terms | Sam | 🟡 Active | Get in front of [[Rachel Kim]] at the next QBR |
+| Renewal terms | Josefina | 🟡 Active | Get in front of [[Rachel Kim]] at the next QBR |
 | [[Egress Cost Proposal]] | Priya | 🟡 Active | Finalize by 08-20, route to finance via Daniel |
-| [[Northwind Marketplace Listing Stalled]] | Marcus | 🔴 Stalled | Escalate to their VP Eng |
-| CFO relationship | Sam | 🟡 Active | Sofia has offered a pre-brief — take it |
+| [[Nike Marketplace Listing Stalled]] | Marcus | 🔴 Stalled | Escalate to their VP Eng |
+| CFO relationship | Josefina | 🟡 Active | Sofia has offered a pre-brief — take it |
 
 ---
 
@@ -82,8 +83,8 @@ regional caching is the main lever.
 - **Cost-optimization review running in parallel with the renewal.** Believed routine, but the
   timing is uncomfortable.
 - **No relationship with the economic buyer** with eight months to signature.
-- **Public offering preparation in 2027** will make any large commitment harder to sign as the
-  window approaches.
+- **Board-level cost transformation** has put every multi-year obligation under review, which
+  will make a three-year flat commitment harder to sign the longer the review runs.
 - Single-threaded through engineering. If [[Sofia Marchetti]] left, we would have no senior
   advocate.
 
@@ -91,5 +92,5 @@ regional caching is the main lever.
 
 ## Related
 
-[[Northwind Analytics - Backgrounder]] · [[Committed-Spend Renewal]] ·
-[[Commitment Flexibility vs Discount Depth]] · [[Northwind Marketplace Listing Stalled]]
+[[Nike - Backgrounder]] · [[Committed-Spend Renewal]] ·
+[[Commitment Flexibility vs Discount Depth]] · [[Nike Marketplace Listing Stalled]]

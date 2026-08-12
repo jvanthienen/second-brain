@@ -3,7 +3,7 @@
 > **Operating context.** The agent reads this alongside [`AGENTS.md`](AGENTS.md) — that one says
 > *how to maintain the wiki*, this one says *who it's for*.
 
-**Maintained by:** Sam Rivera · **Last updated:** 2026-08-09
+**Maintained by:** Josefina Van Thienen · **Last updated:** 2026-08-09
 
 > ⚠️ **Fictional.** Replace with your own. The structure is the point.
 
@@ -13,10 +13,10 @@
 
 | Field | Value |
 |-------|-------|
-| **Name** | Sam Rivera |
-| **Email** | sam@meridiancloud.example |
+| **Name** | Josefina Van Thienen |
+| **Email** | josefina@meridiancloud.example |
 | **Role** | Enterprise Account Executive |
-| **Segment** | High-growth software companies |
+| **Segment** | Consumer and retail brands |
 | **Territory** | West — Emerging Enterprise |
 | **Manager** | Dana Whitfield — 1:1 Thursdays 10:00 AM PT |
 | **Annual target** | $8.5M new consumption revenue |
@@ -50,9 +50,9 @@ This section shapes every answer. Spend time here.
 
 | Tier | Account | Wiki page | Why it matters |
 |------|---------|-----------|---|
-| T1 | Northwind Analytics | [[Northwind Analytics]] | Largest. Renewal March 2027. |
-| T1 | Tailspin Robotics | [[Tailspin Robotics]] | Fastest growth. Under competitive attack. |
-| T2 | Relecloud Media | [[Relecloud Media]] | Flat. One migration decides it. |
+| T1 | Nike | [[Nike]] | Largest. Renewal March 2027. |
+| T1 | Patagonia | [[Patagonia]] | Fastest growth. Under competitive attack. |
+| T2 | Nordstrom | [[Nordstrom]] | Flat. One migration decides it. |
 
 > 🔒 Figures aren't in the wiki — they go stale. See
 > [`data-pipeline/`](data-pipeline/) and the rule in [`AGENTS.md`](AGENTS.md).
@@ -61,9 +61,9 @@ This section shapes every answer. Spend time here.
 
 ## Current priorities
 
-1. **[[Northwind Analytics]]** — renewal terms, and finally meeting [[Rachel Kim]].
-2. **[[Tailspin Robotics]]** — [[Vertex Cloud]] displacement. Most urgent thing in the book.
-3. **[[Relecloud Media]]** — unblock [[Relecloud Incumbent Preference]] before the September
+1. **[[Nike]]** — renewal terms, and finally meeting [[Rachel Kim]].
+2. **[[Patagonia]]** — [[Vertex Cloud]] displacement. Most urgent thing in the book.
+3. **[[Nordstrom]]** — unblock [[Nordstrom Incumbent Preference]] before the September
    decision.
 
 ---

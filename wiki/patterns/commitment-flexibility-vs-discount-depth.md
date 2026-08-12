@@ -20,9 +20,9 @@ worked once.
 
 | Account | The signal | Source |
 |---|---|---|
-| [[Tailspin Robotics]] | *"She'd rather pay more per unit and stay flexible"* — Ana Petrov won't commit because the fleet size in two years is unknowable | [[Kai Nakamura]], 2026-07-08 |
-| [[Relecloud Media]] | Committed, under-consuming, now cites that as a reason not to expand scope | [[Fatima Al-Rashid]], 2026-07-16 |
-| [[Northwind Analytics]] | Public offering window makes a large fixed obligation harder to sign | Inferred, 2026-06 — **not yet confirmed with the buyer** |
+| [[Patagonia]] | *"She'd rather pay more per unit and stay flexible"* — Ana Petrov won't commit because peak-season demand two years out is unknowable | [[Kai Nakamura]], 2026-07-08 |
+| [[Nordstrom]] | Guessed wrong on an earlier commitment, under-consuming, now cites that as a reason not to expand scope | [[Fatima Al-Rashid]], 2026-07-16 |
+| [[Nike]] | The CFO won't sign three-year flat while the cost transformation has every multi-year obligation under board review | Inferred, 2026-06 — **not yet confirmed with the buyer** |
 
 ---
 
@@ -31,11 +31,11 @@ worked once.
 The customers are not being irrational and they are not negotiating.
 
 A commitment is a **forecast in contract form.** It asks the customer to predict their own
-demand and pay a penalty for predicting wrong. For a company in a land-grab market, or in the
-year before a public offering, the cost of being wrong is much higher than the discount is
-worth.
+demand and pay a penalty for predicting wrong. For a company whose year is decided by peak
+season, or one mid cost transformation with the board reviewing every multi-year obligation,
+the cost of being wrong is much higher than the discount is worth.
 
-The [[Relecloud Media]] case is the sharpest version: they took the deal, guessed wrong, and the
+The [[Nordstrom]] case is the sharpest version: they took the deal, guessed wrong, and the
 commitment has now become an argument *against* buying more from us. We sold something that is
 actively working against the next sale.
 
@@ -48,14 +48,14 @@ happens if my forecast is wrong.*
 
 - What structures exist that price optionality instead of removing it? Ramps, shorter terms with
   extension options, consumption floors rather than totals?
-- Is the [[Northwind Analytics]] instance real or are we pattern-matching? It is currently
+- Is the [[Nike]] instance real or are we pattern-matching? It is currently
   inference, not evidence.
-- Should the under-consumption at [[Relecloud Media]] be renegotiated proactively rather than
+- Should the under-consumption at [[Nordstrom]] be renegotiated proactively rather than
   waiting for it to surface again?
 
 ---
 
 ## Related
 
-[[Committed-Spend Renewal]] · [[Tailspin Robotics]] · [[Relecloud Media]] ·
-[[Northwind Analytics]] · [[Kai Nakamura]] · [[Fatima Al-Rashid]]
+[[Committed-Spend Renewal]] · [[Patagonia]] · [[Nordstrom]] ·
+[[Nike]] · [[Kai Nakamura]] · [[Fatima Al-Rashid]]

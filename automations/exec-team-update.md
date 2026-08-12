@@ -52,23 +52,23 @@ Named owner, specific request, real date. An update with no ask is a status repo
 ## Output — team update
 
 ```
-📌 Weekly — Sam's accounts · week ending 8 Aug
+📌 Weekly — Josefina's accounts · week ending 8 Aug
 
 WHAT MOVED
-• Northwind — the cost review isn't routine. It's a live benchmark against
+• Nike — the cost review isn't routine. It's a live benchmark against
   Vertex Cloud, running since May. We were told in June it was internal.
-• Northwind — Rachel Kim's actual priority is commitment structure, not
+• Nike — Rachel Kim's actual priority is commitment structure, not
   price. Our egress proposal was aimed at the wrong objection.
-• Tailspin — Vertex confirmed. Same finance-first entry as Northwind.
+• Patagonia — Vertex confirmed. Same finance-first entry as Nike.
 
 WHAT'S STUCK
-• Relecloud migration — one of Fatima's three objections is factually wrong
+• Nordstrom migration — one of Fatima's three objections is factually wrong
   and we still haven't demonstrated the counter-example.
-• Northwind marketplace listing — nobody on their side is asking for it.
+• Nike marketplace listing — nobody on their side is asking for it.
   Recommend we stop carrying it.
 
 ASKS
-• @Priya — hold egress, prioritise the Tailspin inference proposal by Thu 14th.
+• @Priya — hold egress, prioritise the Patagonia inference proposal by Thu 14th.
 • @Priya — demo the materialization equivalent to Fatima before the 20th.
 • @Marcus — before more marketplace effort, can we confirm anyone wants it?
 ```
@@ -83,19 +83,19 @@ Monthly — West / Emerging Enterprise · July
 The same competitor is now at two of three accounts, and both times entered
 through finance.
 
-Northwind ($12M renewal, March) — the cost review we were told was routine is
+Nike ($12M renewal, March) — the cost review we were told was routine is
 a competitive benchmark that has been running since May. Their CFO wants term
-flexibility ahead of a public offering, not a discount. Rebuilding the proposal
-accordingly. She joins the next QBR — our first access to her.
+flexibility while every multi-year obligation is under board review, not a
+discount. Rebuilding the proposal accordingly. She joins the next QBR — our first access to her.
 
-Tailspin (fastest growth, no commitment) — Vertex approached their finance
+Patagonia (fastest growth, no commitment) — Vertex approached their finance
 director and sent a VP in week one. Our champion prefers us but doesn't own the
 budget. Their CTO has never met anyone from our side above the AE.
 
 The pattern across both: we are single-threaded into engineering, and the
 competitor is going straight to the people who sign.
 
-ASK: an executive sponsor for Tailspin this quarter, and a commitment
+ASK: an executive sponsor for Patagonia this quarter, and a commitment
 structure other than multi-year flat. The second one affects all three
 accounts.
 ```

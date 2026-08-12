@@ -1,8 +1,8 @@
-# Northwind Analytics — CFO pre-brief from Sofia Marchetti
+# Nike — CFO pre-brief from Sofia Marchetti
 
 **Date:** 2026-08-07
 **Type:** Notes from an informal call
-**Attendees:** Sofia Marchetti (VP Engineering, Northwind), Sam Rivera
+**Attendees:** Sofia Marchetti (VP Engineering, Nike), Josefina Van Thienen
 **Duration:** 25 min
 
 > Sofia offered this after the July QBR so I wouldn't "walk in cold" with Rachel. Informal,
@@ -35,16 +35,16 @@ to do, it's just not the thing that decides this."*
 
 **Commitment flexibility.** Not price, not discount depth.
 
-Sofia's account: they're preparing for a public offering in 2027. Rachel will not sign a
-three-year flat commitment ahead of that window, because a large fixed obligation on the balance
-sheet is something she'd have to explain. She wants a shorter term, or a ramp structure, or
-both.
+Sofia's account: Rachel is running a board-level cost transformation, with investors watching.
+Every multi-year obligation in the company is under board review right now, and Rachel will not
+sign a three-year flat commitment while that's true, because a large fixed obligation is exactly
+the kind of thing she'd have to defend. She wants a shorter term, or a ramp structure, or both.
 
 > "If you walk in with a bigger discount she'll say no. If you walk in with a two-year term
 > with a ramp and an option to extend, I think she signs it."
 
-Sofia also said Rachel has been comparing infrastructure commitments against how their peer
-companies structured theirs pre-IPO.
+Sofia also said Rachel has been comparing infrastructure commitments against how other consumer
+brands structured theirs during their own cost programs.
 
 ## On Daniel
 
@@ -55,18 +55,11 @@ Daniel is our strongest technical relationship and the person who validated the 
 
 ## Also
 
-The marketplace listing is "not on anyone's list" at Northwind. Sofia said if we keep pushing it
+The marketplace listing is "not on anyone's list" at Nike. Sofia said if we keep pushing it
 she'll get it resourced, but it isn't connected to the renewal and nobody senior is asking about
 it.
 
-## Actions
-
-- Sam: rebuild the renewal proposal around term structure, not discount
-- Sam: reconsider the egress proposal's priority
-- Priya: hold the egress work — don't cancel, just stop treating it as the headline
-- Sam: think about Daniel dependency
-
-## My read
+## Insights
 
 Two months of work aimed at the wrong objection. The egress proposal isn't wasted, but it was
 never going to move the decision.
@@ -76,3 +69,10 @@ serious problem. Vertex is now at two accounts.
 
 The flexibility point is the one that generalizes. Three different accounts have now told us
 some version of *"the commitment shape doesn't fit us."*
+
+## Next steps
+
+- Josefina: rebuild the renewal proposal around term structure, not discount
+- Josefina: reconsider the egress proposal's priority
+- Priya: hold the egress work — don't cancel, just stop treating it as the headline
+- Josefina: think about Daniel dependency

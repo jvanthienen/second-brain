@@ -81,7 +81,7 @@ If a fact will still be true in six months, it belongs in the Backgrounder.
 Every page opens with a **context banner** pointing at its siblings:
 
 ```markdown
-> **Living page — what's happening now.** For who they are, see [[Northwind Analytics - Backgrounder]].
+> **Living page — what's happening now.** For who they are, see [[Nike - Backgrounder]].
 ```
 
 Then YAML-style frontmatter is optional but useful if you want Dataview-style queries later.

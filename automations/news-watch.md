@@ -1,8 +1,8 @@
 # Agent — News Watch
 
-**Trigger:** scheduled — weekdays 7:00 AM
+**Trigger:** scheduled. Default: Mondays 8:00 AM. Go daily during a hot period.
 **Reads:** web + `wiki/`
-**Writes:** chat digest — and drops genuinely material items into `raw/_inbox/`
+**Writes:** digest to you or to the account team channel, and drops genuinely material items into `raw/_inbox/`
 **Runtime:** 2–5 minutes
 
 ---
@@ -57,8 +57,8 @@ is the difference between an alert and an assistant.
 ```
 📰 Account news — Tuesday 9 Aug
 
-🔴 Tailspin Robotics — competitive
-   Vertex Cloud announced GPU price cuts targeting robotics workloads,
+🔴 Patagonia — competitive
+   Vertex Cloud announced GPU price cuts targeting ML training workloads,
    effective September 1.
    → Same workload under pressure since May. Confirms the pricing posture in
      [[Vertex Cloud]] and makes Priya's inference proposal (review 08-15)
@@ -66,14 +66,30 @@ is the difference between an alert and an assistant.
    → Dropped to raw/_inbox/ — recommend ingest.
    → Source: [link] · Confidence: high
 
-🟡 Northwind Analytics — leadership
-   CFO Rachel Kim spoke on "infrastructure cost discipline" ahead of a public
-   offering.
+🟡 Nike — leadership
+   CFO Rachel Kim spoke on "infrastructure cost discipline" as part of a
+   board-level cost transformation.
    → First public signal of her priorities. [[Rachel Kim]] currently has almost
      nothing on it. Useful before the QBR.
    → Source: [link] · Confidence: high
 
-Relecloud Media — nothing of note.
+Nordstrom — nothing of note.
+```
+
+---
+
+## Scheduling it
+
+Same pattern as [Daily Capture](daily-capture.md): the spec is prose, any scheduler works.
+In Claude Code, in the repo folder:
+
+> Schedule this for me: every Monday at 8 AM, run automations/news-watch.md and post the
+> digest to my account team channel.
+
+Cron equivalent:
+
+```
+0 8 * * 1  cd ~/second-brain && claude -p "Run automations/news-watch.md and post the digest to the team channel"
 ```
 
 ---

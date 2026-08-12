@@ -40,7 +40,7 @@ Not a compromise — the right default for demos and development:
 | `sample-data/commitments.csv` | Agreements, terms, drawdown, pace |
 | `sample-data/pipeline.csv` | Open opportunities |
 
-All fictional. Note `commitments.csv` has **empty fields** for Tailspin rather than zeros —
+All fictional. Note `commitments.csv` has **empty fields** for Patagonia rather than zeros —
 they have no agreement, and `0` would be a false claim. See the `$0` rule.
 
 ---

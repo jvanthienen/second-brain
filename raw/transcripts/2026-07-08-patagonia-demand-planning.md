@@ -1,50 +1,51 @@
-# Tailspin Robotics — capacity planning
+# Patagonia — demand planning
 
 **Date:** 2026-07-08
 **Type:** Transcript (edited)
-**Attendees:** Kai Nakamura (Head of ML Infrastructure), Priya Raman (SE), Sam Rivera
+**Attendees:** Kai Nakamura (Head of ML Infrastructure), Priya Raman (SE), Josefina Van Thienen
 **Duration:** 50 min
 
 ---
 
-**Kai:** We're going to need more headroom by October. The fleet is growing faster than we
-modelled and every new deployment means retraining on that site's data.
+**Kai:** We're going to need more headroom by October. Model training is growing faster than we
+modelled and every new market we launch in means retraining the demand-forecasting and
+recommendation models on that region's data.
 
 **Priya:** How much more?
 
-**Kai:** Call it 40% over current. Maybe more if the logistics contract lands.
+**Kai:** Call it 40% over current. Maybe more if the personalization rollout lands.
 
-**Sam:** We can reserve capacity in West through January. That gives you scheduling certainty
+**Josefina:** We can reserve capacity in West through January. That gives you scheduling certainty
 through the peak.
 
 **Kai:** That's exactly what I want. The thing that actually hurts us isn't price, it's not
 being able to get the hardware when we need it. Last year we lost three weeks waiting.
 
-**Sam:** Understood. Have you thought about a committed agreement? It would lock in both the
+**Josefina:** Understood. Have you thought about a committed agreement? It would lock in both the
 capacity and the rate.
 
 **Kai:** Ana won't sign a multi-year commitment right now. She's been clear about it.
 
-**Sam:** Is that a price thing?
+**Josefina:** Is that a price thing?
 
-**Kai:** No. It's that we don't know what we'll need in two years. If the fleet doubles we'd be
-under-committed and if the logistics deal falls through we'd be sitting on a commitment we can't
-use. She'd rather pay more per unit and stay flexible.
+**Kai:** No. It's that we can't forecast what we'll need in two years. If model training doubles
+we'd be under-committed and if peak season comes in soft we'd be sitting on a commitment we
+can't use. She'd rather pay more per unit and stay flexible.
 
 **Priya:** Even with a meaningful discount?
 
 **Kai:** I've heard her say the discount isn't worth the lock-in. She's said it more than once.
 
-**Sam:** That's useful to know.
+**Josefina:** That's useful to know.
 
 **Kai:** For what it's worth, I'd sign something. I'd rather have the certainty. But it's not my
 budget.
 
 ## Actions
 
-- Sam: reserve West capacity through January
+- Josefina: reserve West capacity through January
 - Priya: model the October requirement
-- Sam: think about what a flexible commitment structure would look like
+- Josefina: think about what a flexible commitment structure would look like
 
 ## My read
 

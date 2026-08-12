@@ -1,8 +1,8 @@
-# Northwind Analytics — renewal kickoff (procurement)
+# Nike — renewal kickoff (procurement)
 
 **Date:** 2026-06-02
 **Type:** Notes (no recording)
-**Attendees:** Tom Bradley (Procurement, Northwind), Sam Rivera
+**Attendees:** Tom Bradley (Procurement, Nike), Josefina Van Thienen
 **Duration:** 30 min
 
 ---
@@ -27,7 +27,7 @@ push.
 
 ## Actions
 
-- Sam: draft renewal outline for September
+- Josefina: draft renewal outline for September
 - Tom: confirm the internal approval calendar
 
 ## My read

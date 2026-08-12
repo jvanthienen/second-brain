@@ -1,7 +1,7 @@
-# Tailspin Robotics
+# Patagonia
 
 > **Living page — what's happening now.** For who they are, see
-> [[Tailspin Robotics - Backgrounder]].
+> [[Patagonia - Backgrounder]].
 >
 > **Last reviewed:** 2026-08-05 · **Sources:** 2
 
@@ -19,7 +19,7 @@ who control this budget.
 
 Fastest-growing account in the book. Consumption has roughly doubled year over year, driven by
 model training and inference rather than customer count, which makes it lumpier and
-higher-ceiling than [[Northwind Analytics]].
+higher-ceiling than [[Nike]].
 
 The technical relationship is excellent and the commercial relationship is thin. There is no
 committed agreement — every dollar is discretionary, renegotiable, and currently under attack.
@@ -35,9 +35,9 @@ compete. He has also been clear that his preference does not decide this.
 [[Committed-Spend Renewal]].
 
 The blocker is not discount depth. Per [[Kai Nakamura]] (2026-07-08), Ana Petrov will not trade
-optionality for a better rate: if the fleet doubles they would be under-committed, and if the
-logistics contract falls through they would be holding a commitment they cannot consume. She
-would rather pay more per unit and stay flexible.
+optionality for a better rate: if model-training demand doubles they would be under-committed,
+and if the peak season comes in soft they would be holding a commitment they cannot consume.
+She would rather pay more per unit and stay flexible.
 
 This is not unique to them — see [[Commitment Flexibility vs Discount Depth]].
 
@@ -45,8 +45,9 @@ This is not unique to them — see [[Commitment Flexibility vs Discount Depth]].
 
 ## Technical
 
-Vision-model training runs entirely on our GPU capacity. Retraining happens per deployment site,
-so consumption scales with fleet growth rather than revenue.
+Demand-forecasting and recommendation model training runs entirely on our GPU capacity. Models
+retrain as the catalogue and the season turn over, so consumption scales with model-training
+growth rather than revenue.
 
 **Capacity reservation in West through January 2027 is the genuine differentiator.** Kai said
 directly that availability matters more than price to him, and that [[Vertex Cloud]] had no
@@ -64,7 +65,7 @@ a cost exercise.
 | [[Kai Nakamura]] | Head of ML Infrastructure. Champion. Decides the stack in practice, not the budget. |
 | Ana Petrov | CTO. Controls budget. **Has never met anyone from our side above the AE.** |
 | Mei Lin | Finance Director. Building the cost model. Neutral, wants a defensible number. |
-| Jonas Weber | VP Operations. Cares about robot uptime, not infrastructure. |
+| Jonas Weber | VP Operations. Cares about storefront and fulfilment uptime, not infrastructure. |
 
 ---
 
@@ -72,9 +73,9 @@ a cost exercise.
 
 | Thread | Owner | Status | Next step |
 |---|---|---|---|
-| First commitment agreement | Sam | 🟡 Active | Build a flexible structure, not a discount |
-| [[Vertex Cloud]] displacement | Sam / Priya | 🔴 Urgent | Cost model with Mei + technical response |
-| Executive sponsorship | Sam | 🔴 Not started | Get Ana Petrov in front of a VP this quarter |
+| First commitment agreement | Josefina | 🟡 Active | Build a flexible structure, not a discount |
+| [[Vertex Cloud]] displacement | Josefina / Priya | 🔴 Urgent | Cost model with Mei + technical response |
+| Executive sponsorship | Josefina | 🔴 Not started | Get Ana Petrov in front of a VP this quarter |
 | Inference optimization | Priya | 🟡 Accelerated | Proposal review 08-15 |
 
 ---
@@ -87,12 +88,12 @@ a cost exercise.
   in the portfolio.
 - **No executive coverage.** Two years on the account and their CTO has never met anyone above
   the AE. [[Vertex Cloud]] closed that gap in a week.
-- Fast growth cuts both ways: a funding or contract delay compresses spend immediately.
+- Fast growth cuts both ways: a soft peak season compresses spend immediately.
 
 ---
 
 ## Related
 
-[[Tailspin Robotics - Backgrounder]] · [[Vertex Cloud]] ·
+[[Patagonia - Backgrounder]] · [[Vertex Cloud]] ·
 [[Commitment Flexibility vs Discount Depth]] · [[Champion Dependency Risk]] ·
 [[Committed-Spend Renewal]]

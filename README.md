@@ -8,6 +8,10 @@ instantiated for someone who manages a portfolio of accounts, projects or relati
 
 > **All data here is fictional.** Companies, people, numbers and meetings are invented.
 > Replace them with your own.
+> The customer names are real brands used fictionally, purely so workshop examples feel
+> familiar. No affiliation, and nothing here reflects real data about those companies.
+
+> 🎓 **At the workshop?** Start with [`WORKSHOP.md`](WORKSHOP.md).
 
 ---
 
@@ -150,7 +154,7 @@ If swapping a connector forces an edit inside `wiki/`, something has leaked acro
 
 ---
 
-## The six agents
+## The agents
 
 Built **on top of** the wiki — they read it and write back to it. See
 [`automations/`](automations/).
@@ -163,6 +167,8 @@ Built **on top of** the wiki — they read it and write back to it. See
 | Pre-Meeting Prep | Calendar → one-screen brief, composed from the wiki |
 | Pipeline Review | Reconciles the wiki against CRM. Drafts only. |
 | Exec & Team Update | A period of activity → audience-ready summary |
+| Daily Capture | 6 PM sweep: your meetings file themselves into the inbox |
+| Chief of Staff | Not a skill: the one agent wearing all of the above. Owns memory, rhythm, voice |
 
 ---
 

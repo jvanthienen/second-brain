@@ -21,9 +21,9 @@ different states at three accounts.
 
 | Account | State | The blocker |
 |---|---|---|
-| [[Northwind Analytics]] | Renewal, ends March 2027 | No relationship with the signer |
-| [[Tailspin Robotics]] | No agreement — pursuing the first | Won't trade optionality for rate |
-| [[Relecloud Media]] | Committed, under-consuming | The existing commitment argues against expansion |
+| [[Nike]] | Renewal, ends March 2027 | No relationship with the signer |
+| [[Patagonia]] | No agreement — pursuing the first | Won't trade optionality for rate |
+| [[Nordstrom]] | Committed, under-consuming | The existing commitment argues against expansion |
 
 ---
 
@@ -31,11 +31,12 @@ different states at three accounts.
 
 The three accounts look like three different problems and are increasingly looking like one.
 
-At [[Tailspin Robotics]], Ana Petrov won't commit because she can't forecast — the fleet might
-double or a contract might slip, and either way a fixed three-year obligation is the wrong shape.
-At [[Relecloud Media]], they *did* commit, are behind on drawdown, and [[Fatima Al-Rashid]] now
-cites that as a reason not to expand. At [[Northwind Analytics]] the renewal sits under a
-public-offering window that makes large fixed obligations harder to sign.
+At [[Patagonia]], Ana Petrov won't commit because she can't forecast: model training might
+double or peak season might come in soft, and either way a fixed three-year obligation is the
+wrong shape. At [[Nordstrom]], they *did* commit, are behind on drawdown, and
+[[Fatima Al-Rashid]] now cites that as a reason not to expand. At [[Nike]] the renewal sits
+under a board-level cost transformation that has every multi-year obligation under review and
+makes a three-year flat term harder to sign.
 
 **In all three cases the objection is to the shape of the commitment, not its price.** We keep
 responding with discount depth, which is the lever we control, rather than term structure, which
@@ -49,12 +50,12 @@ See [[Commitment Flexibility vs Discount Depth]].
 
 - Do we have any commitment structure other than multi-year flat? If not, what would it take?
 - Is there a ramped or shorter-term structure we can actually offer?
-- At [[Relecloud Media]], is there a way to make an under-consumed commitment an asset in the
+- At [[Nordstrom]], is there a way to make an under-consumed commitment an asset in the
   expansion conversation rather than a liability?
 
 ---
 
 ## Related
 
-[[Northwind Analytics]] · [[Tailspin Robotics]] · [[Relecloud Media]] ·
+[[Nike]] · [[Patagonia]] · [[Nordstrom]] ·
 [[Commitment Flexibility vs Discount Depth]] · [[Rachel Kim]]

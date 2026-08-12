@@ -1,6 +1,6 @@
 # Tom Bradley
 
-> **Person page.** Procurement Manager, [[Northwind Analytics]].
+> **Person page.** Procurement Manager, [[Nike]].
 >
 > **Last reviewed:** 2026-07-29 · **Sources:** 2
 
@@ -8,7 +8,7 @@
 
 ## Who he is
 
-Procurement Manager at [[Northwind Analytics]]. Reports into finance under [[Rachel Kim]].
+Procurement Manager at [[Nike]]. Reports into finance under [[Rachel Kim]].
 Owns the renewal process, not the decision.
 
 ## What we know
@@ -36,4 +36,4 @@ accordingly.
 
 ## Related
 
-[[Northwind Analytics]] · [[Rachel Kim]] · [[Committed-Spend Renewal]]
+[[Nike]] · [[Rachel Kim]] · [[Committed-Spend Renewal]]

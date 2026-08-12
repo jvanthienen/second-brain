@@ -50,7 +50,7 @@ Three or four, tied to open threads and to what the wiki says you don't know.
 ## Output
 
 ```
-📋 Northwind Analytics — QBR
+📋 Nike — QBR
    Tomorrow 10:00 AM · 60 min · 4 attendees
 
 THE ONE THING
@@ -71,7 +71,7 @@ WHO
 OPEN THREADS
   🟡 Renewal terms — the reason this meeting exists
   🟡 Egress proposal — downgraded; Rachel has never mentioned it
-  🔴 Marketplace listing — nobody at Northwind is asking for it
+  🔴 Marketplace listing — nobody at Nike is asking for it
 
 PATTERN IN PLAY
   Commitment Flexibility vs Discount Depth — she wants term structure,

@@ -1,6 +1,6 @@
 # Daniel Osei
 
-> **Person page.** Head of Data Platform, [[Northwind Analytics]].
+> **Person page.** Head of Data Platform, [[Nike]].
 >
 > **Last reviewed:** 2026-07-29 · **Sources:** 2
 
@@ -8,15 +8,15 @@
 
 ## Who he is
 
-Head of Data Platform at [[Northwind Analytics]]. Reports to [[Sofia Marchetti]]. The technical
+Head of Data Platform at [[Nike]]. Reports to [[Sofia Marchetti]]. The technical
 decision maker and the person whose opinion carries most weight on whether our platform is
 working.
 
 ## What we know
 
 Skeptical by default and fair with it. He was measurably negative on us through 2025 — the
-reliability problems were his to live with — and the June 2026 managed database migration
-changed that.
+reliability problems were his to live with — and the June 2026 consumer-data analytics platform
+migration changed that.
 
 His words after go-live: *"I was expecting to be up all night. It was uneventful, which from
 where I sit is the highest possible praise."* By the July QBR he was willing to state publicly
@@ -38,4 +38,4 @@ anyone persuaded him.
 
 ## Related
 
-[[Northwind Analytics]] · [[Sofia Marchetti]] · [[Egress Cost Proposal]]
+[[Nike]] · [[Sofia Marchetti]] · [[Egress Cost Proposal]]

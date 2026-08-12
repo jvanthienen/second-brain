@@ -18,8 +18,8 @@ changes role, or is overruled.
 
 | Account | The single point | What's above them |
 |---|---|---|
-| [[Tailspin Robotics]] | [[Kai Nakamura]] — the entire relationship | Nothing. Ana Petrov has never met anyone above the AE. |
-| [[Northwind Analytics]] | [[Sofia Marchetti]] — only senior advocate | [[Rachel Kim]], whom we have never met |
+| [[Patagonia]] | [[Kai Nakamura]] — the entire relationship | Nothing. Ana Petrov has never met anyone above the AE. |
+| [[Nike]] | [[Sofia Marchetti]] — only senior advocate | [[Rachel Kim]], whom we have never met |
 
 ---
 
@@ -32,12 +32,12 @@ relationship — and the better the champion, the longer it takes to notice.
 [[Kai Nakamura]] has told us twice that his preference does not decide the outcome. We have
 treated that as modesty. It is a warning.
 
-**[[Vertex Cloud]] found this gap before we fixed it.** They approached [[Tailspin Robotics]]
+**[[Vertex Cloud]] found this gap before we fixed it.** They approached [[Patagonia]]
 through finance rather than engineering and sent a VP in week one — going straight to the layer
 we have never reached, at an account we have held for two years.
 
 That is not a coincidence. It is the obvious play against a single-threaded account, and it will
-be the obvious play at [[Northwind Analytics]] too.
+be the obvious play at [[Nike]] too.
 
 ---
 
@@ -51,5 +51,5 @@ be the obvious play at [[Northwind Analytics]] too.
 
 ## Related
 
-[[Tailspin Robotics]] · [[Northwind Analytics]] · [[Kai Nakamura]] · [[Sofia Marchetti]] ·
+[[Patagonia]] · [[Nike]] · [[Kai Nakamura]] · [[Sofia Marchetti]] ·
 [[Vertex Cloud]]

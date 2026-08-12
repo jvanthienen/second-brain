@@ -13,7 +13,7 @@ A 20-minute walkthrough that shows the brain **working**, not just existing.
 
 - [ ] Obsidian open on the repo root, graph view on a second monitor or tab
 - [ ] Agent session open, pointed at `AGENTS.md`
-- [ ] `raw/_inbox/2026-08-07-northwind-cfo-prebrief.md` still un-ingested
+- [ ] `raw/_inbox/2026-08-07-nike-cfo-prebrief.md` still un-ingested
 - [ ] `wiki/log.md` open in a tab — you'll come back to it
 - [ ] A recording of Act 3 as backup, in case the live ingest misbehaves
 
@@ -64,12 +64,12 @@ Narrate while it works. It should:
 | 1 | Read the pre-brief | — |
 | 2 | **Flag contradiction #1** — the cost review isn't routine, it's a live competitive benchmark against [[Vertex Cloud]] since May | We were told in June it was routine. We believed it for two months. |
 | 3 | **Flag contradiction #2** — nobody in finance cares about egress | We've been building the wrong proposal since June |
-| 4 | Update [[Northwind Analytics]] — state of play, contradictions, threads | |
+| 4 | Update [[Nike]] — state of play, contradictions, threads | |
 | 5 | Substantially rewrite [[Rachel Kim]] — first real intel on the economic buyer | |
 | 6 | **Create [[Daniel Osei]] risk note** — he's interviewing elsewhere | New instance of [[Champion Dependency Risk]] |
 | 7 | Update [[Vertex Cloud]] — now at **two** accounts, same finance-first entry | The pattern hardens |
-| 8 | Strengthen [[Commitment Flexibility vs Discount Depth]] — Northwind moves from *inference* to *evidence* | The open question from the last lint gets closed |
-| 9 | Downgrade [[Egress Cost Proposal]] and [[Northwind Marketplace Listing Stalled]] | |
+| 8 | Strengthen [[Commitment Flexibility vs Discount Depth]] — Nike moves from *inference* to *evidence* | The open question from the last lint gets closed |
+| 9 | Downgrade [[Egress Cost Proposal]] and [[Nike Marketplace Listing Stalled]] | |
 | 10 | Update `index.md` and append to `log.md` | |
 
 **Then open `wiki/log.md`** and show the new entry next to the previous six.
@@ -89,8 +89,8 @@ Re-run the Act 1 question:
 
 > **"Why do our commitment deals keep stalling?"**
 
-The answer is now stronger — Northwind has moved from inference to confirmed evidence, with the
-public-offering reason attached.
+The answer is now stronger — Nike has moved from inference to confirmed evidence, with the
+board-review reason attached.
 
 Then:
 

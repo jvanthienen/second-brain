@@ -1,4 +1,4 @@
-# Relecloud Incumbent Preference
+# Nordstrom Incumbent Preference
 
 > **Blocker page.** Archive when resolved.
 >
@@ -9,8 +9,8 @@
 
 ## What's blocked
 
-The [[Relecloud Media]] analytics migration — the only growth path on that account. Decision has
-slipped from June to end of September.
+The [[Nordstrom]] merchandising and customer-analytics migration off the incumbent warehouse,
+the only growth path on that account. Decision has slipped from June to end of September.
 
 ## Why
 
@@ -34,7 +34,7 @@ said doing so removes it.
 
 ## Owners
 
-- **Ours:** Priya Raman (technical), Sam Rivera (commercial)
+- **Ours:** Priya Raman (technical), Josefina Van Thienen (commercial)
 - **Theirs:** [[Fatima Al-Rashid]] decides; Oliver Grant sponsors
 
 ## What has not been tried
@@ -48,7 +48,7 @@ said doing so removes it.
 
 ## Impact if unresolved
 
-The account stays flat for two more years. This is the entire growth case at [[Relecloud Media]].
+The account stays flat for two more years. This is the entire growth case at [[Nordstrom]].
 
 ## Next step
 
@@ -59,4 +59,4 @@ of her stated objections.
 
 ## Related
 
-[[Relecloud Media]] · [[Fatima Al-Rashid]] · [[Commitment Flexibility vs Discount Depth]]
+[[Nordstrom]] · [[Fatima Al-Rashid]] · [[Commitment Flexibility vs Discount Depth]]

@@ -53,9 +53,9 @@ would move it. **Cite the wiki page and the source date.**
 
 🔴 CONTRADICTED (2)
 
-  Northwind — renewal · $12.0M · Stage: Proposal
+  Nike — renewal · $12.0M · Stage: Proposal
     CRM close date 2026-08-31 has passed with no stage change.
-    Wiki: [[Northwind Analytics]] — decision expected end of Q3, and the
+    Wiki: [[Nike]] — decision expected end of Q3, and the
     cost review is a live competitive benchmark (2026-08-07 pre-brief).
     → Draft: "Renewal timeline moved to end of Q3. Cost-optimization review
        confirmed as a competitive benchmark against Vertex Cloud, running
@@ -64,9 +64,9 @@ would move it. **Cite the wiki page and the source date.**
     → Also suggests: close date → 2026-09-30
     [Accept] [Edit] [Skip]
 
-  Tailspin — first commitment · $2.1M · Stage: Qualify
+  Patagonia — first commitment · $2.1M · Stage: Qualify
     Wiki shows an active competitive displacement; stage says Qualify.
-    Wiki: [[Tailspin Robotics]], [[Vertex Cloud]] (2026-08-04).
+    Wiki: [[Patagonia]], [[Vertex Cloud]] (2026-08-04).
     → Draft: "Competitive pressure confirmed on training workloads. Champion
        prefers to stay; commercial case not built. Blocker is commitment
        shape, not price — see the flexibility pattern. Recommend re-stage
@@ -75,7 +75,7 @@ would move it. **Cite the wiki page and the source date.**
 
 🟡 STALE (1)
 
-  Relecloud — analytics migration · $0.8M · last activity 21 days
+  Nordstrom — analytics migration · $0.8M · last activity 21 days
     → Draft: "Validation gate 2 passed 07-30; decision moved to end of
        September. Blocker is the data team's incumbent preference — one of
        three objections is factually wrong and answerable."

@@ -59,7 +59,7 @@ If an account is single-threaded with no executive coverage, that's an instance 
 ```markdown
 # Rachel Kim
 
-> **Person page.** CFO, [[Northwind Analytics]].
+> **Person page.** CFO, [[Nike]].
 > **Last reviewed:** 2026-07-29 · **Sources:** 2 (both indirect)
 
 ## Who she is
