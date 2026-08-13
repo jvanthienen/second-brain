@@ -42,7 +42,7 @@ updates you approve one at a time.
 1. Type your top 5 deals into a file in `data-pipeline/`: stage, value, close date. That is
    enough to learn on.
 
-Step-by-step recipes for every lane: [buildergeneralist.com/second-brain](https://www.buildergeneralist.com/second-brain)
+Step-by-step recipe for every connection: [buildergeneralist.com/second-brain](https://www.buildergeneralist.com/second-brain)
 
 ## Build your version of the skill
 

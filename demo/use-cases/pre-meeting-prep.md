@@ -60,7 +60,7 @@ copy a transcript out of the app into `raw/_inbox/`.
 1. MCPs connect through your company's Copilot setup, not a personal settings screen. Ask
    your agent what is already wired, and ask Josefina on the night.
 
-Step-by-step recipes for every lane: [buildergeneralist.com/second-brain](https://www.buildergeneralist.com/second-brain)
+Step-by-step recipe for every connection: [buildergeneralist.com/second-brain](https://www.buildergeneralist.com/second-brain)
 
 ## Build your version of the skill
 

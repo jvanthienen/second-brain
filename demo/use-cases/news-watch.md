@@ -33,7 +33,7 @@ filtered digest for your real accounts where every item says what it means for y
    **Connect**, approve in the browser.
 4. Optional, every Monday 8 AM: the cron line ships in the pro skill file.
 
-Step-by-step recipes for every lane: [buildergeneralist.com/second-brain](https://www.buildergeneralist.com/second-brain)
+Step-by-step recipe for every connection: [buildergeneralist.com/second-brain](https://www.buildergeneralist.com/second-brain)
 
 ## Build your version of the skill
 

@@ -46,7 +46,7 @@ Backgrounder on an account in your book, with an honest list of what is NOT know
    wiki page.
 3. Tell your agent: "My Firecrawl key is in .env. Use their API when you research."
 
-Step-by-step recipes for every lane: [buildergeneralist.com/second-brain](https://www.buildergeneralist.com/second-brain)
+Step-by-step recipe for every connection: [buildergeneralist.com/second-brain](https://www.buildergeneralist.com/second-brain)
 
 ## Build your version of the skill
 

@@ -52,7 +52,7 @@ tonight, draft on screen and paste.
 2. Dig up 2 or 3 past updates you were proud of and paste them in: the skill learns voice
    and structure from real examples, not from adjectives.
 
-Step-by-step recipes for every lane: [buildergeneralist.com/second-brain](https://www.buildergeneralist.com/second-brain)
+Step-by-step recipe for every connection: [buildergeneralist.com/second-brain](https://www.buildergeneralist.com/second-brain)
 
 ## Build your version of the skill
 

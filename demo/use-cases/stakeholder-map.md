@@ -42,7 +42,7 @@ matter at one account, a coverage score per role, and a map you can show.
 
 1. Build from public sources. Paste LinkedIn profile text into the chat; the agent files it.
 
-Step-by-step recipes for every lane: [buildergeneralist.com/second-brain](https://www.buildergeneralist.com/second-brain)
+Step-by-step recipe for every connection: [buildergeneralist.com/second-brain](https://www.buildergeneralist.com/second-brain)
 
 ## Build your version of the skill
 
