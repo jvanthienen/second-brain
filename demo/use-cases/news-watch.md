@@ -21,6 +21,17 @@ filtered digest for your real accounts where every item says what it means for y
 | Want it delivered to the team | Slack or Teams connector, one click, later |
 | Want it every Monday 8 AM | Scheduling is a take-home: one cron line, in the pro skill file |
 
+**How to connect it, the short version:**
+
+- **Nothing to connect.** Web search is built into your agent. Start building.
+- **Point it at trusted sources.** Give your filter a starting list and let it grow per
+  account: Reuters, Bloomberg, Wall Street Journal, New York Times on the business wires;
+  The Information and TechCrunch for tech; Yahoo Finance and SEC filings for public
+  companies; the account's own newsroom and careers pages. Anything that only shows up
+  off-list gets flagged as unverified, not dropped silently.
+- **Want it delivered or scheduled:** the Slack connector is one click (Settings >
+  Connectors), and the Monday 8 AM cron line ships in the pro skill file.
+
 Step-by-step recipes for every lane: [`../connect-guide.md`](../connect-guide.md)
 
 ## Build your version of the skill

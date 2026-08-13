@@ -8,18 +8,35 @@ upcoming meeting: who is coming, what happened last time, what the meeting must 
 ## Think first: where do your meetings live?
 
 - Your calendar: Outlook or Google. That is where the agent would FIND the meeting.
-- Your transcripts: where do they land today? Granola (already files on your Mac), Fireflies
-  or Otter (cloud, API key), Teams recaps (copy-paste)?
+- Your transcripts: where do they land today? Granola, Fireflies, Otter (they all ship
+  MCPs), Teams recaps (WorkIQ MCP, or copy-paste)?
 - Your memory: what do you already know about these people that no system holds?
 
 ## Connect it: pick your lane
 
 | Your situation | Do this tonight |
 |---|---|
-| Granola user | Nothing to connect: your notes are already local files. Point the agent at the folder |
-| Fireflies / Otter | They have APIs: an API key connects your transcript history later |
-| Teams shop | Open a meeting recap, copy the transcript into a file. Works now |
+| Granola user | Connect the official Granola MCP: two minutes, and your meetings flow in |
+| Fireflies / Otter | They ship MCPs too: connect one the same way, or export a transcript tonight |
+| Teams shop | Connect the WorkIQ MCP and your meeting history is queryable. Fallback: copy a recap into a file |
 | Calendar | The connector is one click later; tonight, pasting the invite is faster |
+
+**How to connect it, the short version (the same moves work for any MCP):**
+
+- **Granola:** Claude Desktop > Settings > Connectors > Add custom connector > paste
+  `https://mcp.granola.ai/mcp` > sign in when the browser opens. Test: "list my recent
+  Granola meetings." Newer Granola versions encrypt the local cache, so the MCP is the
+  reliable lane; copying a transcript out of the app into `raw/_inbox/` always works as a
+  fallback.
+- **Fireflies / Otter:** same moves with the MCP URL from their docs. No luck? Export one
+  transcript into `raw/_inbox/` tonight.
+- **Teams:** connect the WorkIQ MCP so your meeting history is queryable. Microsoft folks:
+  ask Josefina, she knows the internal ones.
+- **On Copilot instead of Claude:** MCPs connect through your company's Copilot setup, not
+  a personal settings screen. Ask your agent what is already wired, and ask Josefina on the
+  night.
+- **Calendar:** paste the invite into the chat tonight. The calendar connector is one click
+  later: Settings > Connectors.
 
 Step-by-step recipes for every lane: [`../connect-guide.md`](../connect-guide.md)
 

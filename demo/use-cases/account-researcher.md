@@ -17,9 +17,20 @@ Backgrounder on an account in your book, with an honest list of what is NOT know
 | Your situation | Do this tonight |
 |---|---|
 | Founder / self-admin | Connect your CRM's MCP (HubSpot, Attio) before you build |
-| Corporate stack | Skip the connection. Web-only tonight; kick off the IT request Friday |
+| Corporate stack | Ask your agent to look for an internal MCP before assuming you have nothing. Otherwise web-only tonight; IT request Friday |
 | Internal platform exists | Use it as a source you paste from tonight; wire it properly later |
 | Nothing connected | Web search alone genuinely works. A scraper API (Firecrawl) adds depth later |
+
+**How to connect it, the short version:**
+
+- **Web only genuinely works tonight.** Zero setup: news, filings, job postings, leadership
+  pages. Start here.
+- **Your CRM, if you admin it:** Claude Desktop > Settings > Connectors > Add custom
+  connector. Paste your CRM's MCP URL from its docs, sign in. Test: "list my accounts."
+- **Corporate stack:** ask your agent whether an internal MCP or account-intel platform
+  exists. Big companies often run them; Microsoft folks, ask Josefina.
+- **Deeper scraping later:** a Firecrawl API key in `.env` (copy `.env.example` first).
+  Keys live in `.env`, never in a wiki page.
 
 Step-by-step recipes for every lane: [`../connect-guide.md`](../connect-guide.md)
 

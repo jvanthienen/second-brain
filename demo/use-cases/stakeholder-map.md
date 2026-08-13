@@ -18,8 +18,20 @@ matter at one account, a coverage score per role, and a map you can show.
 |---|---|
 | You requested your LinkedIn export | Drop `Connections.csv` into `data-pipeline/`. Your real network becomes part of the map |
 | No export yet | Request it now (LinkedIn > Settings > Data privacy > Get a copy of your data > Connections). It arrives in ~10 min; build with public sources meanwhile |
-| Level up later | Happenstance's API searches your extended network for warm paths |
+| Happenstance user | Connect its MCP (or drop the API key in `.env`) and it searches your extended network for warm paths |
 | Nothing at all | Paste LinkedIn profile text into the chat; the agent files it |
+
+**How to connect it, the short version:**
+
+- **LinkedIn export, start it FIRST:** LinkedIn > Settings > Data privacy > "Get a copy of
+  your data" > tick Connections only. The CSV arrives by email in about 10 minutes. Drop
+  `Connections.csv` into `data-pipeline/` when it lands.
+- **Happenstance:** connect it like any MCP: Claude Desktop > Settings > Connectors > Add
+  custom connector > paste the MCP URL from Happenstance's docs > sign in. On a plan with
+  API access instead, copy the key into `.env` (copy `.env.example` first) and tell your
+  agent: "My Happenstance key is in .env. Use it to search warm paths."
+- **While you wait:** build from public sources. Paste LinkedIn profile text into the chat
+  and the agent files it.
 
 Step-by-step recipes for every lane: [`../connect-guide.md`](../connect-guide.md)
 

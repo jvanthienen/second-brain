@@ -17,9 +17,22 @@ channel in front of everyone.
 | Your situation | Do this tonight |
 |---|---|
 | Slack shop | The Slack connector is one click in Claude Desktop: connect it and deliver live |
-| Teams shop | Teams connector where available; otherwise draft on screen and paste |
+| Teams shop | Copilot already talks to Teams: build there and deliver with no copy-paste. On Claude, draft on screen and paste |
 | Email updates | Draft on screen tonight; the mail connector is a later upgrade |
 | No connection | The draft on screen IS the demo. Delivery is plumbing |
+
+**How to connect it, the short version:**
+
+- **Slack:** one click. Claude Desktop > Settings > Connectors > Slack > Connect. Your
+  browser opens: sign in to YOUR workspace and approve. Test: "post 'test' to my own DM in
+  Slack," then delete the test.
+- **Teams with Copilot:** already connected. Copilot reads your chats and can post your
+  update for you, no copy-paste needed: ask it to draft the update, then post to your team
+  channel after you approve.
+- **Fuel first:** this build reports what the brain learned, so ingest at least one real
+  meeting before you build.
+- **Teach it your voice:** dig up 2 or 3 past updates you were proud of. The skill learns
+  structure and tone from real examples, not from adjectives.
 
 Step-by-step recipes for every lane: [`../connect-guide.md`](../connect-guide.md)
 
@@ -31,7 +44,9 @@ least one real source first so there is something to report, then paste:
 > I want to build an update skill for my second brain. Interview me first, one question at a
 > time: who reads my updates and where do they land, how often, and what my reader cares
 > about most. Have me describe how I like to sound, and read docs/soul.md for the voice
-> rules. Then draft `automations/exec-team-update.md` as a short prose playbook, show me,
+> rules. Ask me to paste two or three past updates I was proud of, and learn the voice and
+> structure from those real examples. Then draft `automations/exec-team-update.md` as a
+> short prose playbook, show me,
 > and write this week's update from wiki/log.md and the account pages: lead with what
 > changed, end with asks that have named owners and dates. Draft only. If I approve and my
 > chat is connected, post it where I tell you.
