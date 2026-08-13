@@ -67,6 +67,13 @@ The pro version ships in `automations/stakeholder-map.md`. **Don't open it yet.*
 > Add a Mermaid org chart of these stakeholders to the account page. Color nodes by my
 > coverage: green Strong, yellow Weak, red None.
 
+Want a map you can open, pan around, and show on a screen? Ask for a standalone page:
+
+> Build a single-file HTML stakeholder map for this account in `briefs/`, no external
+> libraries: a box per person grouped by role, reporting lines drawn between them, boxes
+> colored by my coverage (green Strong, yellow Weak, red None), warm paths dashed. Open it
+> in my browser when it is ready.
+
 ## Steal from the pro
 
 Open `automations/stakeholder-map.md` (shipped). Did your version score coverage? Check for
