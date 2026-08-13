@@ -21,19 +21,28 @@ matter at one account, a coverage score per role, and a map you can show.
 | Happenstance user | Connect its MCP (or drop the API key in `.env`) and it searches your extended network for warm paths |
 | Nothing at all | Paste LinkedIn profile text into the chat; the agent files it |
 
-**How to connect it, the short version:**
+**How to connect it:**
 
-- **LinkedIn export, start it FIRST:** LinkedIn > Settings > Data privacy > "Get a copy of
-  your data" > tick Connections only. The CSV arrives by email in about 10 minutes. Drop
-  `Connections.csv` into `data-pipeline/` when it lands.
-- **Happenstance:** connect it like any MCP: Claude Desktop > Settings > Connectors > Add
-  custom connector > paste the MCP URL from Happenstance's docs > sign in. On a plan with
-  API access instead, copy the key into `.env` (copy `.env.example` first) and tell your
-  agent: "My Happenstance key is in .env. Use it to search warm paths."
-- **While you wait:** build from public sources. Paste LinkedIn profile text into the chat
-  and the agent files it.
+**LinkedIn export (start it first, it takes ~10 minutes to arrive):**
 
-Step-by-step recipes for every lane: [`../connect-guide.md`](../connect-guide.md)
+1. LinkedIn > Settings > **Data privacy** > "Get a copy of your data".
+2. Tick **Connections** only. Request it. The CSV arrives by email in about 10 minutes.
+3. Drop `Connections.csv` into `data-pipeline/`.
+4. Tell your agent: "My LinkedIn connections are in data-pipeline/. Cross-reference warm
+   paths when you map stakeholders."
+
+**Happenstance:**
+
+1. Claude Desktop > **Settings > Connectors > Add custom connector**.
+2. Paste the MCP URL from Happenstance's docs. Sign in when the browser opens.
+3. On an API plan instead: copy `.env.example` to `.env`, paste the key there, and tell
+   your agent: "My Happenstance key is in .env. Use it to search warm paths."
+
+**While you wait for the export:**
+
+1. Build from public sources. Paste LinkedIn profile text into the chat; the agent files it.
+
+Step-by-step recipes for every lane: [buildergeneralist.com/second-brain](https://www.buildergeneralist.com/second-brain)
 
 ## Build your version of the skill
 

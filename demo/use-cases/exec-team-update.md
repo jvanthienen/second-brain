@@ -21,20 +21,27 @@ channel in front of everyone.
 | Email updates | Draft on screen tonight; the mail connector is a later upgrade |
 | No connection | The draft on screen IS the demo. Delivery is plumbing |
 
-**How to connect it, the short version:**
+**How to connect it:**
 
-- **Slack:** one click. Claude Desktop > Settings > Connectors > Slack > Connect. Your
-  browser opens: sign in to YOUR workspace and approve. Test: "post 'test' to my own DM in
-  Slack," then delete the test.
-- **Teams with Copilot:** already connected. Copilot reads your chats and can post your
-  update for you, no copy-paste needed: ask it to draft the update, then post to your team
-  channel after you approve.
-- **Fuel first:** this build reports what the brain learned, so ingest at least one real
-  meeting before you build.
-- **Teach it your voice:** dig up 2 or 3 past updates you were proud of. The skill learns
-  structure and tone from real examples, not from adjectives.
+**Slack:**
 
-Step-by-step recipes for every lane: [`../connect-guide.md`](../connect-guide.md)
+1. Claude Desktop > **Settings > Connectors**.
+2. Find Slack > **Connect**. Sign in to YOUR workspace in the browser and approve.
+3. Test: "post 'test' to my own DM in Slack." Delete the test after.
+
+**Teams with Copilot:**
+
+1. Nothing to connect: Copilot already talks to Teams.
+2. Ask it to draft your update, review it, then have it post to your team channel. No
+   copy-paste.
+
+**Before you build (any lane):**
+
+1. Ingest at least one real meeting so there is something to report.
+2. Dig up 2 or 3 past updates you were proud of and paste them in: the skill learns voice
+   and structure from real examples, not from adjectives.
+
+Step-by-step recipes for every lane: [buildergeneralist.com/second-brain](https://www.buildergeneralist.com/second-brain)
 
 ## Build your version of the skill
 

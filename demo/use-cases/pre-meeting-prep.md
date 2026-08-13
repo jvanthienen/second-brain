@@ -19,26 +19,45 @@ upcoming meeting: who is coming, what happened last time, what the meeting must 
 | Granola user | Connect the official Granola MCP: two minutes, and your meetings flow in |
 | Fireflies / Otter | They ship MCPs too: connect one the same way, or export a transcript tonight |
 | Teams shop | Connect the WorkIQ MCP and your meeting history is queryable. Fallback: copy a recap into a file |
-| Calendar | The connector is one click later; tonight, pasting the invite is faster |
+| Calendar | Built-in connector: connect it FIRST, one click in Settings > Connectors |
 
-**How to connect it, the short version (the same moves work for any MCP):**
+**How to connect it:**
 
-- **Granola:** Claude Desktop > Settings > Connectors > Add custom connector > paste
-  `https://mcp.granola.ai/mcp` > sign in when the browser opens. Test: "list my recent
-  Granola meetings." Newer Granola versions encrypt the local cache, so the MCP is the
-  reliable lane; copying a transcript out of the app into `raw/_inbox/` always works as a
-  fallback.
-- **Fireflies / Otter:** same moves with the MCP URL from their docs. No luck? Export one
-  transcript into `raw/_inbox/` tonight.
-- **Teams:** connect the WorkIQ MCP so your meeting history is queryable. Microsoft folks:
-  ask Josefina, she knows the internal ones.
-- **On Copilot instead of Claude:** MCPs connect through your company's Copilot setup, not
-  a personal settings screen. Ask your agent what is already wired, and ask Josefina on the
-  night.
-- **Calendar:** paste the invite into the chat tonight. The calendar connector is one click
-  later: Settings > Connectors.
+**Calendar (do this first, it is a built-in connector):**
 
-Step-by-step recipes for every lane: [`../connect-guide.md`](../connect-guide.md)
+1. Claude Desktop > **Settings > Connectors**.
+2. Find Google Calendar > **Connect**. Sign in and approve in the browser.
+3. Test: "what is my next external meeting?"
+4. No connector for your calendar (corporate Outlook)? Paste the invite into the chat:
+   subject, time, attendees.
+
+**Granola (every MCP below connects with these same moves):**
+
+1. Claude Desktop > **Settings > Connectors > Add custom connector**.
+2. Paste `https://mcp.granola.ai/mcp`.
+3. Sign in when the browser opens.
+4. Test: "list my recent Granola meetings."
+
+Newer Granola versions encrypt the local cache, so the MCP is the reliable lane. Fallback:
+copy a transcript out of the app into `raw/_inbox/`.
+
+**Fireflies / Otter:**
+
+1. Same four moves, with the MCP URL from their docs.
+2. No luck? Export one transcript into `raw/_inbox/` tonight.
+
+**Teams:**
+
+1. Connect the WorkIQ MCP, same moves. Microsoft folks: ask Josefina, she knows the
+   internal ones.
+2. Fallback: open the meeting recap, copy the transcript into a file in `raw/_inbox/`.
+
+**On Copilot instead of Claude:**
+
+1. MCPs connect through your company's Copilot setup, not a personal settings screen. Ask
+   your agent what is already wired, and ask Josefina on the night.
+
+Step-by-step recipes for every lane: [buildergeneralist.com/second-brain](https://www.buildergeneralist.com/second-brain)
 
 ## Build your version of the skill
 
