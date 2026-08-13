@@ -68,17 +68,17 @@ it: it is set dressing now, not a beat. If someone notices it, that is a bonus q
 
 ---
 
-## Beat 1 (0:00-0:45): the note
+## Beat 1 (0:00-0:45): I am preparing for a renewal, and we have a QBR next Thursday and I just had a pre QBR 1:1 informal meeting with my champion Sofia
 
 Obsidian is already showing the Sofia note. Scroll it once, slowly. Stop at the "On Daniel"
 section and read the key line aloud.
 
-**Say:** "You met Daniel in the slides: my technical champion at Nike, the one who runs the
-platform my renewal depends on. An hour ago I finished my QBR prep call with Sofia, my
-champion. This is just my meeting note: what she told me, my insights, my next steps. No
-tags, no filing, no format. My capture automation normally files the day's meetings at 6 PM;
-today I ran it early, so the note is already sitting in the brain's inbox. Buried in the
-middle, one sentence, off the record: Daniel is interviewing elsewhere."
+**Say:** "I am preparing the Nike renewal. The QBR that decides it is next Thursday, and an
+hour ago I finished an informal 1:1 with Sofia, my champion, to prep it. This is just my
+meeting note: what she told me, my insights, my next steps. No tags, no filing, no format.
+My capture automation normally files the day's meetings at 6 PM; today I ran it early, so
+the note is already in the brain's inbox. And buried in the middle, one sentence, off the
+record: Daniel, the one you met in the slides, is interviewing elsewhere."
 
 ---
 
