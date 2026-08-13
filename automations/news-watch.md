@@ -26,6 +26,19 @@ competitor with a page in `wiki/companies/`.
 Last 24 hours: news, funding and M&A, executive moves, filings, outages, engineering blogs,
 competitor announcements.
 
+**Where to look first.** Prefer sources you would repeat in front of a customer, and let the
+list grow per account:
+
+| Lane | Sources |
+|---|---|
+| Business wires | Reuters, Bloomberg, Wall Street Journal, New York Times |
+| Tech and startups | The Information, TechCrunch |
+| Public companies | Yahoo Finance (earnings, filings, analyst moves), SEC filings |
+| The account itself | Their newsroom page, and their careers page (job postings are intel) |
+
+An item that only appears on a source off this list gets flagged as unverified, not dropped
+silently.
+
 ### 3. Filter hard
 For each item: **does this change what I would do this week?**
 
