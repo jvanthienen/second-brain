@@ -13,7 +13,7 @@ Does not control budget, and says so plainly.
 
 ## What we know
 
-Consistently candid, to an unusual degree. In the August sync he disclosed the [[Vertex Cloud]]
+Consistently candid, to an unusual degree. In the August sync he disclosed the [[TWS]]
 approach unprompted, told us it came in through finance rather than through him, and then told
 us exactly what would help us compete internally:
 
@@ -40,5 +40,5 @@ coverage above him — see [[Champion Dependency Risk]].
 
 ## Related
 
-[[Patagonia]] · [[Patagonia - Backgrounder]] · [[Vertex Cloud]] ·
+[[Patagonia]] · [[Patagonia - Backgrounder]] · [[TWS]] ·
 [[Champion Dependency Risk]] · [[Commitment Flexibility vs Discount Depth]]

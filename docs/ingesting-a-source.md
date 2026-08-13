@@ -31,7 +31,7 @@ Worked example — the CFO pre-brief in `raw/_inbox/` should touch:
 | `motions/committed-spend-renewal` | Nike's real blocker identified |
 | `patterns/commitment-flexibility-vs-discount-depth` | Nike promoted from inference to evidence |
 | `patterns/champion-dependency-risk` | New instance |
-| `companies/vertex-cloud` | Now at two accounts, same entry route |
+| `companies/tws` | Now at two accounts, same entry route |
 | `blockers/nike-marketplace-listing-stalled` | Recommend closing |
 | `index.md`, `log.md` | Registration and timeline |
 

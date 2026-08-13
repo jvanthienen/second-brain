@@ -11,7 +11,7 @@
 
 **Josefina:** By whom?
 
-**Kai:** Vertex Cloud. They came in through Mei on the finance side, not through me, which I
+**Kai:** TWS. They came in through Mei on the finance side, not through me, which I
 thought was interesting. Pricing on GPU capacity, aimed specifically at the training workload.
 
 **Josefina:** How aggressive?
@@ -38,7 +38,7 @@ can defend.
 
 **Kai:** Two things. Give Mei a cost model she can actually defend — not a discount, a
 structure. And get someone senior from your side in front of Ana. She's never met anyone above
-you, and Vertex sent a VP in week one.
+you, and TWS sent a VP in week one.
 
 ## Actions
 

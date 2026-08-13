@@ -14,7 +14,7 @@
 | Field | Value |
 |-------|-------|
 | **Name** | Josefina Van Thienen |
-| **Email** | josefina@meridiancloud.example |
+| **Email** | josefina@azuracloud.example |
 | **Role** | Enterprise Account Executive |
 | **Segment** | Consumer and retail brands |
 | **Territory** | West — Emerging Enterprise |
@@ -62,7 +62,7 @@ This section shapes every answer. Spend time here.
 ## Current priorities
 
 1. **[[Nike]]** — renewal terms, and finally meeting [[Rachel Kim]].
-2. **[[Patagonia]]** — [[Vertex Cloud]] displacement. Most urgent thing in the book.
+2. **[[Patagonia]]** — [[TWS]] displacement. Most urgent thing in the book.
 3. **[[Nordstrom]]** — unblock [[Nordstrom Incumbent Preference]] before the September
    decision.
 

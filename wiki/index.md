@@ -16,7 +16,7 @@
 | Page | Summary | Reviewed |
 |---|---|---|
 | [[Nike]] | Largest account. Renewal March 2027. No relationship with the signer. | 2026-07-29 |
-| [[Patagonia]] | Fastest growth, no commitment. [[Vertex Cloud]] actively displacing. | 2026-08-05 |
+| [[Patagonia]] | Fastest growth, no commitment. [[TWS]] actively displacing. | 2026-08-05 |
 | [[Nordstrom]] | Flat. One migration decision is the entire growth case. | 2026-07-31 |
 
 ## Backgrounders
@@ -70,7 +70,7 @@
 
 | Page | What | Encountered at |
 |---|---|---|
-| [[Vertex Cloud]] | Competitor. Enters through finance, sends seniority early. | 1 account |
+| [[TWS]] | Competitor. Enters through finance, sends seniority early. | 1 account |
 
 ---
 

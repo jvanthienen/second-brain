@@ -32,7 +32,7 @@ relationship — and the better the champion, the longer it takes to notice.
 [[Kai Nakamura]] has told us twice that his preference does not decide the outcome. We have
 treated that as modesty. It is a warning.
 
-**[[Vertex Cloud]] found this gap before we fixed it.** They approached [[Patagonia]]
+**[[TWS]] found this gap before we fixed it.** They approached [[Patagonia]]
 through finance rather than engineering and sent a VP in week one — going straight to the layer
 we have never reached, at an account we have held for two years.
 
@@ -52,4 +52,4 @@ be the obvious play at [[Nike]] too.
 ## Related
 
 [[Patagonia]] · [[Nike]] · [[Kai Nakamura]] · [[Sofia Marchetti]] ·
-[[Vertex Cloud]]
+[[TWS]]

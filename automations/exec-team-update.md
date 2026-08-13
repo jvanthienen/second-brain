@@ -56,10 +56,10 @@ Named owner, specific request, real date. An update with no ask is a status repo
 
 WHAT MOVED
 • Nike — the cost review isn't routine. It's a live benchmark against
-  Vertex Cloud, running since May. We were told in June it was internal.
+  TWS, running since May. We were told in June it was internal.
 • Nike — Rachel Kim's actual priority is commitment structure, not
   price. Our egress proposal was aimed at the wrong objection.
-• Patagonia — Vertex confirmed. Same finance-first entry as Nike.
+• Patagonia — TWS confirmed. Same finance-first entry as Nike.
 
 WHAT'S STUCK
 • Nordstrom migration — one of Fatima's three objections is factually wrong
@@ -88,7 +88,7 @@ a competitive benchmark that has been running since May. Their CFO wants term
 flexibility while every multi-year obligation is under board review, not a
 discount. Rebuilding the proposal accordingly. She joins the next QBR — our first access to her.
 
-Patagonia (fastest growth, no commitment) — Vertex approached their finance
+Patagonia (fastest growth, no commitment) — TWS approached their finance
 director and sent a VP in week one. Our champion prefers us but doesn't own the
 budget. Their CTO has never met anyone from our side above the AE.
 

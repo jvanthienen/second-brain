@@ -1,13 +1,29 @@
-# Workshop script: the 10-minute demo
+# Workshop script: the 5-minute demo
 
-One arc, six beats, framed as a single Monday morning in Josefina's week: the news watch lands,
-a meeting gets captured and ingested, the hood comes off, the QBR brief goes to the team.
-Beat 5 was chosen from the registration data: pre-meeting prep got 7 of 12 votes and it
-closes the story (the QBR is next Thursday). Top vote-getter pipeline review (8) lives in the
-build-hour cards; it needs their CRM data, not your stage.
+One story, one character, one use case. The room meets Daniel in the slides, the demo shows
+the brain catching something about him, and the payoff is the QBR brief that tells you how
+to run the room because of it. Everything else the brain did stays on screen but un-narrated.
 
-**Read [`story.md`](story.md) first.** Cast, timeline, tension. You are narrating Josefina's
-week; the software plays itself.
+Rewritten 2026-08-12 from the co-host review: introduce Daniel at the very start and
+reinforce him on every slide; keep the demo to a single story and use case; do not layer
+insights; have a plan B; simplify the Obsidian view.
+
+**Read [`story.md`](story.md) first.** Cast, timeline, tension. You are narrating one week
+of Josefina's life; the software plays itself.
+
+**Depends on the slides:** by the time the demo starts, the audience already knows Daniel
+Osei (Nike, Head of Data Platform, your technical champion) from the deck. The demo never
+introduces him, it pays him off.
+
+---
+
+## The story in one breath
+
+You met Daniel in the slides. An hour ago your champion Sofia told you, off the record, that
+Daniel is interviewing elsewhere. Her meeting note goes into the brain, the brain rewrites
+Daniel's page, ties him to a pattern it already knew, and a week before the QBR your team
+gets two things because of it: the brief that says how to handle the room, and the one-page
+backgrounder everyone walks in holding. One meeting in, one decision out.
 
 ---
 
@@ -15,213 +31,183 @@ week; the software plays itself.
 
 | Where | What |
 |---|---|
-| Left half | Claude Desktop, fresh chat, file access to the repo folder AND `~/Meetings`, Slack connected |
-| Right half | Obsidian on the repo. Graph view in one tab, `wiki/log.md` in another |
+| Left half | Claude Desktop, fresh chat, file access to the repo folder, Slack connected |
+| Right half | Obsidian on the repo. ONE tab open: the Sofia note in `raw/_inbox/`. Both sidebars closed. |
 | Behind | Slack, #nike-vteam channel visible |
 | System | Notifications off (Focus mode). Font size up everywhere. |
 
+The old Monday news digest already sits in #nike-vteam with a real Monday timestamp. Leave
+it: it is set dressing now, not a beat. If someone notices it, that is a bonus question.
+
 ---
 
-## Pre-flight checklist
+## Pre-flight checklist (the day before)
 
-**On the Monday before (2 minutes, do not skip):**
-- [ ] Post the staged news digest (text below) into #nike-vteam in the demo workspace, around
-  8 AM. By Thursday it reads "Monday 8:02 AM" and nobody has to take your word for it.
-
-**The day before:**
-- [ ] Claude Desktop: file access to the repo folder AND `~/Meetings`. Test: "list the wiki
-  pages", then "list my Meetings folder".
+- [ ] Claude Desktop: file access to the repo folder. Test: "list the wiki pages".
 - [ ] Slack connector signed in, demo workspace, #nike-vteam exists. Never a real work channel.
-- [ ] Stage the meeting file (run in the repo folder; sets the fiction to demo day):
+- [ ] Stage the meeting file with today's date, directly in the inbox (run in the repo folder):
   ```
   TODAY=$(date +%F)
-  mv raw/_inbox/2026-08-07-nike-cfo-prebrief.md ~/Meetings/$TODAY-nike-qbr-prep-sofia.md
-  sed -i '' "s/2026-08-07/$TODAY/g" ~/Meetings/$TODAY-nike-qbr-prep-sofia.md
+  mv raw/_inbox/2026-08-07-nike-cfo-prebrief.md raw/_inbox/$TODAY-nike-qbr-prep-sofia.md
+  sed -i '' "s/2026-08-07/$TODAY/g" raw/_inbox/$TODAY-nike-qbr-prep-sofia.md
   ```
-  `raw/_inbox/` must be EMPTY (except its README). `~/Meetings` contains only the Sofia file.
-- [ ] Dry run on a COPY, never the demo repo. Screen-record it: that recording is the backup.
-- [ ] Claude Code open in a terminal as fallback surface.
-- [ ] Obsidian graph view opens colored (accounts blue, people green, patterns orange,
-  blockers red, motions purple).
-- [ ] Read [`story.md`](story.md). Rehearse once, out loud, with a timer.
-
-**The staged digest (post this Monday 8 AM, as yourself or a "News Watch" bot):**
-
-> 📰 Account news, Monday
->
-> 🔴 Nike: competitive
-> Vertex Cloud announced enterprise price cuts for analytics workloads, effective Sept 1.
-> They are already benchmarking us inside Nike finance. This lands a week before the QBR
-> and makes any discount-led pitch weaker, not stronger. Term structure is now the only
-> viable open.
-> Source: vendor announcement · Confidence: high
->
-> 🟡 Patagonia: hiring
-> Two new ML-platform roles posted, both mention real-time inference. Supports the timing of
-> Priya's inference proposal (review Aug 15).
->
-> Nordstrom: nothing of note.
+  `raw/_inbox/` contains ONLY this file (plus its README). Nothing goes in `~/Meetings`.
+- [ ] Obsidian, simplify hard (this was direct feedback: too much on screen):
+  - Close the left sidebar and the right sidebar.
+  - One tab open: the staged Sofia note.
+  - After the dry run, practice opening the LOCAL graph on [[Daniel Osei]] (open the page,
+    then run "Open local graph", set depth to 1). You show Daniel's corner of the brain,
+    never the full galaxy. The full graph is a slide, not a demo prop.
+- [ ] Dry run on a COPY, never the demo repo. Screen-record the whole run: that recording is
+  Plan B. Note which files changed so you can narrate from knowledge, not hope. Keep the
+  dry run's backgrounder PDF on the Desktop: it is the backup attachment.
+- [ ] Practice Obsidian's **Export to PDF** once on any wiki page (command palette, "Export
+  to PDF"). Beat 4 uses it live.
+- [ ] Claude Code open in a terminal behind everything, same folder, as fallback surface.
+- [ ] Rehearse once, out loud, with a timer. Target 5:30, hard stop 6:00.
 
 ---
 
-## Beat 1 (0:00-1:30): Monday, 8 AM. The news watch lands.
+## Beat 1 (0:00-0:45): the note
 
-Open Slack, #nike-vteam. The digest is sitting there with Monday's timestamp. Read the 🔴
-item aloud.
+Obsidian is already showing the Sofia note. Scroll it once, slowly. Stop at the "On Daniel"
+section and read the key line aloud.
 
-**Say:** "I did not search for this. An agent runs every Monday at 8, reads my whole book,
-scans the news, and posts only what changes the plan. Most Mondays it posts nothing. This
-Monday it changed the plan: the competitor cut prices a week before my most important
-meeting of the quarter. The spec for this agent is one prose file in the repo."
+**Say:** "You met Daniel in the slides: my technical champion at Nike, the one who runs the
+platform my renewal depends on. An hour ago I finished my QBR prep call with Sofia, my
+champion. This is just my meeting note: what she told me, my insights, my next steps. No
+tags, no filing, no format. My capture automation normally files the day's meetings at 6 PM;
+today I ran it early, so the note is already sitting in the brain's inbox. Buried in the
+middle, one sentence, off the record: Daniel is interviewing elsewhere."
 
 ---
 
-## Beat 2 (1:30-2:30): capture, now
-
-**Say first:** "An hour ago I finished my QBR prep call with Sofia Marchetti, my champion at
-Nike. Her notes are in my meetings folder. Normally my 6 PM automation files the day's
-meetings into the brain by itself. The QBR is next Thursday. I am not waiting for 6 PM."
+## Beat 2 (0:45-3:15): the ingest, and the three things I had wrong
 
 Type in Claude Desktop:
 
-> **Run my daily capture now (automations/daily-capture.md). I cannot wait for the 6 PM run.**
+> **Ingest the note in raw/_inbox. The QBR with Rachel Kim is next Thursday. When you
+> finish, give me the main insights from this call: the things I had wrong before it,
+> numbered.**
 
-The Sofia file lands in `raw/_inbox/`, named and dated, with a one-line "1 source waiting"
-digest.
+When the numbered recap appears, read it off the screen. Expect the shape (wording will
+vary; read what it wrote):
 
-**Say:** "Filing is the chore that kills every notes system. Mine does it at 6 PM every day
-without me. I just needed it early."
+1. The "routine" cost review is a live benchmark against TWS, running since May.
+2. The egress proposal answers an objection nobody in finance actually has.
+3. Daniel is interviewing elsewhere.
 
----
+**Say:** "That is what one meeting note changed. Two strategy corrections and one human
+being. Numbers one and two stay in the wiki; your kit walks them. Number three is the story
+tonight."
 
-## Beat 3 (2:30-6:00): the ingest (the bomb)
-
-**First, show the note itself.** The captured file is now in `raw/_inbox/`, which is inside
-the Obsidian vault: click it, scroll once, slowly.
-
-**Say:** "This is just my meeting note. What she told me, section by section. My insights.
-My next steps. No special format, no tags, no filing. Now watch where each piece GOES."
-
-Type:
-
-> **Ingest it. The QBR is next Thursday and I need to know what changed.**
-
-While it works, narrate the routing. This is how you explain the wiki without ever defining
-it: point at a section of the note, then at the page it landed on.
-
-| Section of the note | Where it goes in the wiki |
-|---|---|
-| "On the cost review" | [[Nike]] account page, its ⚠️ Contradictions table, and [[Vertex Cloud]] |
-| "On egress" | Second contradiction, and the [[Egress Cost Proposal]] motion gets downgraded |
-| "What Rachel actually cares about" | [[Rachel Kim]] person page, and the [[Commitment Flexibility vs Discount Depth]] pattern |
-| "On Daniel" | [[Daniel Osei]] person page, flagged as a new instance of [[Champion Dependency Risk]] |
-| "Also" (marketplace) | The [[Nike Marketplace Listing Stalled]] blocker |
-| "Insights" | Strengthen the pattern pages: inference becomes evidence |
-| "Next steps" | The account page's open-threads table, with owners |
-
-**Say:** "One note, seven destinations. That is the whole trick: the note stays raw forever,
-and the STRUCTURE lives in the wiki. I never file anything. It knows where things go because
-the schema file describes the page types."
-
-What lands, in order of drama:
+From here, stay on Daniel. Do not tour the other changes. The discipline of this beat:
+one character, one thread, even while twelve files update around it.
 
 | It does | You say |
 |---|---|
-| Flags contradiction 1: the cost review was never routine, it is a competitive benchmark against [[Vertex Cloud]] running since May | "We were told in June it was routine. We believed that for two months. And it is the same competitor from this morning's news." |
-| Flags contradiction 2: nobody in finance cares about egress | "We have been building the wrong proposal since June." |
-| Rewrites [[Rachel Kim]]: first real intel on the economic buyer | "The person who signs. We knew almost nothing this morning." |
-| Adds the [[Daniel Osei]] flight risk, a new instance of [[Champion Dependency Risk]] | "Our champion is interviewing elsewhere. The wiki connected that to a pattern it already knew." |
-| Updates ~14 files, `index.md`, appends to `log.md` | Open the log tab. Show the new entry next to the previous six. |
+| Rewrites [[Daniel Osei]]: the flight risk lands on his page, marked off the record | "One sentence in a prep call just became durable memory. Next month I will not remember Sofia said this. The brain will." |
+| Links him to [[Champion Dependency Risk]], a pattern page that already existed | "It did not just file the fact. It recognized the fact as an instance of a risk it already knew about: too much of this account runs through one person." |
+| Infers his working style from months of meeting notes: evidence over enthusiasm | "Nobody typed that. It read every meeting Daniel appears in and worked out how he decides. When I sit with him next, I bring benchmarks, not vision decks." |
 
-**Say, landing it:** "One meeting. Twelve pages. And it just told me that two months of work
-was aimed at an objection the buyer never had."
+(The working-style inference appeared in the 2026-08-11 rehearsal run. If this run words it
+differently, read what it wrote; if it skips it, the flight risk plus the pattern link carry
+the beat alone. Never promise the room a specific sentence.)
 
-**On the log:** `wiki/log.md` is the brain's journal: one dated entry per ingest, appended
-forever, saying what changed and why it mattered. In Obsidian it is just a file; open it in a
-second tab before the demo (Cmd+click the filename opens a tab) and flip to it here. The
-line: "Seven entries. Two months of working memory, written entirely by the agent."
-
-**Dry-run notes (validated 2026-08-09, pre-retheme):**
-- It creates NO new pages: every entity already has one. Narrate page CHANGES, not creation.
-- It found a THIRD contradiction (Rachel was "hands-off" in June; she is actively
-  benchmarking now). Bonus if it surfaces.
-- Strongest framing: "the wiki was already suspicious. It had this marked as inference and
-  the egress evidence marked thin. This meeting resolves both."
+**Land the beat:** "One meeting note. The brain updated a dozen pages, but the story is:
+it heard one off-the-record sentence about one person and turned it into memory, risk, and
+a playbook for how to work with him."
 
 ---
 
-## Beat 4 (6:00-7:30): open the hood
+## Beat 3 (3:15-4:00): Daniel's corner of the brain
 
-Flip to Obsidian. Fast:
+Flip to Obsidian. Open [[Daniel Osei]], then the local graph (depth 1). A handful of nodes:
+Daniel, Nike, Sofia, the pattern page.
 
-1. `raw/`: "Seven meeting records now. Immutable. The agent reads them, never edits them."
-2. `wiki/`: "The agent wrote every page here. I have never edited one by hand."
-3. `AGENTS.md`: "The whole configuration. It is prose."
-4. Graph view: hover [[Commitment Flexibility vs Discount Depth]], connected to all three
-   accounts.
+**Say:** "This is Daniel's corner of my brain. His page: written by the agent, never by me.
+The links: to the account, to the people around him, to the risk pattern. Every page you
+saw update lives in a folder of markdown files on my laptop. That is the whole trick."
 
-**Say:** "This page is the reason the brain is not a chatbot. No single meeting contains it.
-It emerged from three meetings, at three different accounts, weeks apart. And everything I
-show you next is composed FROM these pages, not from a lucky prompt."
-
-**Optional flourish if pacing allows (30 seconds):** type "Why do our commitment deals keep
-stalling?" and let the cross-account answer land.
+Do NOT open the full graph view. Do not open the log. One page, one local graph, out.
 
 ---
 
-## Beat 5 (7:30-9:30): the QBR brief, to the whole team
+## Beat 4 (4:00-5:30): the payoff, brief plus backgrounder
 
 Type:
 
-> **Prep me for next Thursday's QBR with Rachel Kim, following automations/pre-meeting-prep.md. Save
-> the brief as a file in briefs/ and post it to the #nike-vteam channel in Slack.**
+> **Prep me for next Thursday's QBR with Rachel Kim, following
+> automations/pre-meeting-prep.md. Two artifacts: the team brief, and the one-page
+> backgrounder (who is in the room, goals, key points, what we just learned). Save the
+> backgrounder in briefs/, then post the brief to the #nike-vteam channel in Slack.**
 
-The one-screen brief assembles from pages that changed five minutes ago. Look for:
+Both assemble from pages that changed three minutes ago. Narrate ONLY the Daniel lines
+while it drafts:
 
-| In the brief | Why it lands |
+| In the output | Why it lands |
 |---|---|
-| 🔴 NEW next to Rachel Kim | The person who signs, in the room for the first time |
-| ⚠️ UNRECONCILED: Tom's June "routine" framing vs Sofia's reality, and Tom is in the room | "Do not repeat the June framing back to anyone" |
-| PATTERN IN PLAY: term structure, not price | This morning's news item just made this the only option |
-| The objective: a relationship, not a close | Derived from open threads, not invented |
+| Brief: Daniel, bring evidence, not enthusiasm | The working style, now operational advice for the room |
+| Brief: continuity risk flagged for the account | The off-the-record intel, translated into something a team can act on |
+| Backgrounder: who is in the room, goals, key points, what we just learned (numbered) | The one-pager the whole team walks in holding |
 
-Review it on screen. **Discretion check:** the wiki now holds Daniel's off-the-record flight
-risk, and this brief goes to a shared channel. Verify the draft leaves that detail out; if it
-slipped in, delete the line on camera and say why. That edit is the gate doing its job, in
-public.
+**Discretion check, on camera:** both artifacts travel, and the wiki holds Daniel's flight
+risk off the record. Verify BOTH keep the raw detail out (expect a neutral line like
+"single-threaded risk on the technical side"). If it slipped in, delete the line in front
+of everyone and say why: "nothing auto-sends; this gate is where discretion lives."
 
-Approve. Show both landings: the file in `briefs/` (Obsidian sidebar) and the post in
-#nike-vteam, directly under Monday's news digest. The channel now tells the whole story.
+Approve. The brief posts to #nike-vteam. Then the attachment, by hand and on camera:
 
-**Say:** "A week before the meeting that decides a $12M renewal, my whole account
-team has the same one-screen brief, assembled from everything the brain learned today.
-Nothing auto-sent. I read it before it went anywhere."
+1. The backgrounder is now in `briefs/` (it appears in Obsidian).
+2. Open it, run Obsidian's **Export to PDF** (practiced in pre-flight).
+3. Drag the PDF into the #nike-vteam message thread.
 
----
+**Say while dragging:** "The brief is the corridor read. The PDF is the one-pager everyone
+walks into the room holding: who is there, the goals, and what we just learned, numbered.
+I attach it myself, because nothing leaves this laptop without my hands on it."
 
-## Beat 6 (9:30-10:00): the handoff
-
-Face the room.
-
-**Say:** "Everything you watched is three prose files and a folder of markdown. And when a
-brand new account lands in my book, the same system researches it and builds the pages from
-scratch. That is what you are about to do with your own accounts. Open WORKSHOP.md. Pick
-your use case. Go."
+**Say, and this is the handoff:** "One meeting went in. A week before the meeting that
+decides a $12M renewal, my whole team knows how to handle the room, and the one thing that
+should stay private stayed private. That loop, note in, judgment out, is what you build for
+your own accounts right now. Open WORKSHOP.md. Pick your use case. Go."
 
 ---
 
-## Contingencies
+## Plan B (decided in advance, not improvised)
+
+**The recording is the parachute.** The pre-flight dry run is screen-recorded end to end.
+If the live ingest breaks in any way you cannot talk over, say it plainly: "this is this
+morning's run", play the recording from Beat 2, and keep narrating the same lines. The
+demo is the narration, not the liveness.
 
 | If | Then |
 |---|---|
-| Capture step fumbles | Drag the file into `raw/_inbox/` in Finder yourself: "the 6 PM run does this unattended." Keep moving. |
-| Ingest runs long | Keep narrating over Obsidian; the file changes are the show. At the 6-minute mark, cut to the log entry and the landing line. |
-| Ingest goes sideways | Play the recording. Say so plainly: "this is this morning's run." |
-| One file write spins for 2+ min | The writes often flush late: check Obsidian, the pages are usually already there. If truly stuck, press Stop and type "verify the ingest is complete; finish anything missing, then update index and log." It resumes, never restarts. |
-| The agent asks a mid-ingest question (e.g. how to record the off-the-record intel) | Gift, not glitch. Read it aloud, pick the recommended option, say: "it asked before writing something sensitive. That is the schema working." |
-| Claude Desktop chokes on multi-file edits | Fallback terminal with Claude Code, same prompts. |
-| Slack connector fails | The brief on screen IS the demo. Paste it into the channel manually. |
-| Running short | Cut the Beat 4 optional query. Shrink Beat 1 to 30 seconds. Never cut Beat 3 or Beat 5. |
+| Ingest runs long | Keep narrating Daniel over Obsidian; the file changes are the show. At 3:00, flip to [[Daniel Osei]] even if writes are still flushing; the page is usually already there. |
+| One file write spins for 2+ min | Press Stop, type "verify the ingest is complete; finish anything missing, then update index and log." It resumes, never restarts. |
+| The agent asks a mid-ingest question (e.g. how to record off-the-record intel) | Gift, not glitch. Read it aloud, pick the recommended option: "it asked before writing something sensitive. That is the schema working." |
+| Ingest goes sideways entirely | Play the recording. |
+| Claude Desktop chokes | Fallback terminal with Claude Code, same prompts, same folder. |
+| Slack connector fails | The brief on screen IS the demo. Paste it into the channel by hand. |
+| PDF export fumbles | Drag the backgrounder .md into Slack instead (it renders fine), or drag the dry-run PDF from the Desktop. |
+| Running long at 4:00 | Skip the local graph (Beat 3). Never skip the discretion check. |
+| Running long at 5:00 | Post the brief, drag the dry-run PDF, land the handoff line. |
+
+---
+
+## Cut beats (in your pocket, not in the demo)
+
+These were in the 10-minute version. They are good material for Q&A or a second wind, and
+they are all still in the kit; they are just not part of Daniel's story tonight.
+
+- **The Monday news watch.** The digest still sits in #nike-vteam. If someone asks about it:
+  "an agent reads my whole book every Monday at 8 and posts only what changes the plan."
+- **The live capture run.** `automations/daily-capture.md` files the day's meetings at 6 PM.
+  Tonight it happened off screen.
+- **The cross-account pattern query.** "Why do our commitment deals keep stalling?" is the
+  single best question if someone asks what makes this different from a chatbot: the answer
+  spans three accounts and exists in no single meeting.
+- **The full routing map.** One note feeds seven kinds of pages (account, people, patterns,
+  blockers, motions, open threads, log). The kit's WORKSHOP.md walks it.
 
 ## Audience questions
 
@@ -231,7 +217,7 @@ wrong, how long it took, connectors, what happens at 500 pages.
 One more this demo invites, decide your stance beforehand:
 
 **"You put off-the-record intel in a wiki?"**
-The repo is private and local; access to the brain IS access to the intel, same as a notebook.
-The schema records it marked confidential, and the shared brief left it out (or you removed it
-on camera). The honest answer: the brain has the same discretion obligations you do, and the
-nothing-auto-sends gate is where that discretion gets enforced.
+The repo is private and local; access to the brain IS access to the intel, same as a
+notebook. The schema records it marked confidential, and the shared brief left it out (or
+you removed it on camera). The honest answer: the brain has the same discretion obligations
+you do, and the nothing-auto-sends gate is where that discretion gets enforced.

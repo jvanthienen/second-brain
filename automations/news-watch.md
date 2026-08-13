@@ -58,10 +58,10 @@ is the difference between an alert and an assistant.
 📰 Account news — Tuesday 9 Aug
 
 🔴 Patagonia — competitive
-   Vertex Cloud announced GPU price cuts targeting ML training workloads,
+   TWS announced GPU price cuts targeting ML training workloads,
    effective September 1.
    → Same workload under pressure since May. Confirms the pricing posture in
-     [[Vertex Cloud]] and makes Priya's inference proposal (review 08-15)
+     [[TWS]] and makes Priya's inference proposal (review 08-15)
      time-critical.
    → Dropped to raw/_inbox/ — recommend ingest.
    → Source: [link] · Confidence: high

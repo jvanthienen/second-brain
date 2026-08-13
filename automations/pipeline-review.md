@@ -58,7 +58,7 @@ would move it. **Cite the wiki page and the source date.**
     Wiki: [[Nike]] — decision expected end of Q3, and the
     cost review is a live competitive benchmark (2026-08-07 pre-brief).
     → Draft: "Renewal timeline moved to end of Q3. Cost-optimization review
-       confirmed as a competitive benchmark against Vertex Cloud, running
+       confirmed as a competitive benchmark against TWS, running
        since May. Buyer priority is commitment structure, not discount.
        Next: rebuild proposal around term flexibility."
     → Also suggests: close date → 2026-09-30
@@ -66,7 +66,7 @@ would move it. **Cite the wiki page and the source date.**
 
   Patagonia — first commitment · $2.1M · Stage: Qualify
     Wiki shows an active competitive displacement; stage says Qualify.
-    Wiki: [[Patagonia]], [[Vertex Cloud]] (2026-08-04).
+    Wiki: [[Patagonia]], [[TWS]] (2026-08-04).
     → Draft: "Competitive pressure confirmed on training workloads. Champion
        prefers to stay; commercial case not built. Blocker is commitment
        shape, not price — see the flexibility pattern. Recommend re-stage

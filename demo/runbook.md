@@ -62,12 +62,12 @@ Narrate while it works. It should:
 | # | What it does | Why it matters |
 |---|---|---|
 | 1 | Read the pre-brief | — |
-| 2 | **Flag contradiction #1** — the cost review isn't routine, it's a live competitive benchmark against [[Vertex Cloud]] since May | We were told in June it was routine. We believed it for two months. |
+| 2 | **Flag contradiction #1** — the cost review isn't routine, it's a live competitive benchmark against [[TWS]] since May | We were told in June it was routine. We believed it for two months. |
 | 3 | **Flag contradiction #2** — nobody in finance cares about egress | We've been building the wrong proposal since June |
 | 4 | Update [[Nike]] — state of play, contradictions, threads | |
 | 5 | Substantially rewrite [[Rachel Kim]] — first real intel on the economic buyer | |
 | 6 | **Create [[Daniel Osei]] risk note** — he's interviewing elsewhere | New instance of [[Champion Dependency Risk]] |
-| 7 | Update [[Vertex Cloud]] — now at **two** accounts, same finance-first entry | The pattern hardens |
+| 7 | Update [[TWS]] — now at **two** accounts, same finance-first entry | The pattern hardens |
 | 8 | Strengthen [[Commitment Flexibility vs Discount Depth]] — Nike moves from *inference* to *evidence* | The open question from the last lint gets closed |
 | 9 | Downgrade [[Egress Cost Proposal]] and [[Nike Marketplace Listing Stalled]] | |
 | 10 | Update `index.md` and append to `log.md` | |

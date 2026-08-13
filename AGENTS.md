@@ -134,7 +134,7 @@ Add or update a `## ⚠️ Contradictions` section:
 
 | Old claim (dated) | Reality (dated) | Which matters |
 |---|---|---|
-| Cost review is routine and internal (2026-06-02, procurement) | It's a competitive benchmark against [[Vertex Cloud]] (2026-08-07, VP Eng) | The new one. It reframes the renewal from a paperwork exercise into a defence. |
+| Cost review is routine and internal (2026-06-02, procurement) | It's a competitive benchmark against [[TWS]] (2026-08-07, VP Eng) | The new one. It reframes the renewal from a paperwork exercise into a defence. |
 ```
 
 Then say which one matters and why.

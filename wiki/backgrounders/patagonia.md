@@ -53,4 +53,4 @@ felt urgency to fix any of that.
 
 ## Related
 
-[[Patagonia]] · [[Kai Nakamura]] · [[Vertex Cloud]]
+[[Patagonia]] · [[Kai Nakamura]] · [[TWS]]

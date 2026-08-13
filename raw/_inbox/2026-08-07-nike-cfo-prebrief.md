@@ -15,7 +15,7 @@ getting wrong."*
 
 ## On the cost review
 
-It is **not** a routine internal exercise. Finance engaged **Vertex Cloud** in May and has been
+It is **not** a routine internal exercise. Finance engaged **TWS** in May and has been
 running a formal benchmark of our pricing against theirs. Sofia has seen the comparison deck.
 
 I told her Tom described it in June as routine and not aimed at us. She said Tom "probably
@@ -65,7 +65,7 @@ Two months of work aimed at the wrong objection. The egress proposal isn't waste
 never going to move the decision.
 
 The competitive benchmark being live since May, while we were told it was routine, is the more
-serious problem. Vertex is now at two accounts.
+serious problem. TWS is now at two accounts.
 
 The flexibility point is the one that generalizes. Three different accounts have now told us
 some version of *"the commitment shape doesn't fit us."*

@@ -2,15 +2,22 @@
 
 **Trigger:** 30 minutes before any external meeting
 **Reads:** calendar + `wiki/` + recent mail and chat
-**Writes:** chat brief to you
+**Writes:** chat brief to you, plus a one-page backgrounder file in `briefs/`
 **Runtime:** 1–3 minutes
 
 ---
 
 ## What it does
 
-Turns the next meeting into a one-screen brief: who's coming, what happened last time, what's
-open, and what you should be trying to achieve.
+Produces two artifacts for the same meeting:
+
+1. **The brief** — one screen of judgment: who's coming, what happened last time, what's
+   open, what you should be trying to achieve. Lives in chat (and, on request, a team
+   channel). This is the thing you read in the corridor.
+2. **The backgrounder** — a one-pager saved in `briefs/`, meant to travel: everyone
+   attending (role, coverage, whether we've met), the goals for the meeting, the key
+   points, and what we learned most recently, numbered. Share it as an attachment so the
+   whole team walks in with the same page. Export to PDF before sharing outside chat.
 
 **This is the agent that makes the wiki feel worth it**, because it does no new work — it
 assembles work already done, at the moment it's useful. That's the demo where people stop
@@ -45,6 +52,16 @@ open threads; don't invent it.
 ### 5. Suggest questions
 Three or four, tied to open threads and to what the wiki says you don't know.
 
+### 6. Write the backgrounder
+Save `briefs/YYYY-MM-DD-<account>-<meeting>-backgrounder.md`, one page, four sections:
+
+- **Who is in the room** — every attendee with role, relationship strength, and a one-line
+  read on how they decide (pull from Person pages; never invent).
+- **Goals** — the objective from step 4, plus what would make the meeting a wasted hour.
+- **Key points** — the 3-5 things the team must hold in their heads walking in.
+- **What we just learned** — the most recent intel, numbered, newest source first. Respect
+  confidentiality marks: off-the-record detail stays out of anything that travels.
+
 ---
 
 ## Output
@@ -65,7 +82,7 @@ WHO
 
 ⚠️ UNRECONCILED
   Tom said the cost review was routine (June). Sofia says it's a live
-  benchmark against Vertex Cloud, running since May. Tom is in this room.
+  benchmark against TWS, running since May. Tom is in this room.
   Do not repeat the June framing back to anyone.
 
 OPEN THREADS

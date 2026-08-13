@@ -72,7 +72,7 @@ too weak. **Worth watching.**
 
 ## [2026-08-05] ingest | Patagonia infrastructure sync (2026-08-04)
 
-Created [[Vertex Cloud]], [[Champion Dependency Risk]].
+Created [[TWS]], [[Champion Dependency Risk]].
 Updated [[Patagonia]], [[Kai Nakamura]], [[Committed-Spend Renewal]],
 [[Commitment Flexibility vs Discount Depth]], index.
 

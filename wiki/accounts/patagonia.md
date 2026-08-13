@@ -9,7 +9,7 @@
 
 ## The one thing that matters
 
-**[[Vertex Cloud]] entered through finance, not engineering** — and they sent a VP in week one.
+**[[TWS]] entered through finance, not engineering** — and they sent a VP in week one.
 They found the same gap we have: nobody senior on our side has a relationship with the people
 who control this budget.
 
@@ -50,7 +50,7 @@ retrain as the catalogue and the season turn over, so consumption scales with mo
 growth rather than revenue.
 
 **Capacity reservation in West through January 2027 is the genuine differentiator.** Kai said
-directly that availability matters more than price to him, and that [[Vertex Cloud]] had no
+directly that availability matters more than price to him, and that [[TWS]] had no
 answer on reserved capacity windows.
 
 Inference optimization work is in flight and has become the competitive response rather than
@@ -74,7 +74,7 @@ a cost exercise.
 | Thread | Owner | Status | Next step |
 |---|---|---|---|
 | First commitment agreement | Josefina | 🟡 Active | Build a flexible structure, not a discount |
-| [[Vertex Cloud]] displacement | Josefina / Priya | 🔴 Urgent | Cost model with Mei + technical response |
+| [[TWS]] displacement | Josefina / Priya | 🔴 Urgent | Cost model with Mei + technical response |
 | Executive sponsorship | Josefina | 🔴 Not started | Get Ana Petrov in front of a VP this quarter |
 | Inference optimization | Priya | 🟡 Accelerated | Proposal review 08-15 |
 
@@ -87,13 +87,13 @@ a cost exercise.
 - **Active competitive displacement** on training workloads — the most concrete near-term threat
   in the portfolio.
 - **No executive coverage.** Two years on the account and their CTO has never met anyone above
-  the AE. [[Vertex Cloud]] closed that gap in a week.
+  the AE. [[TWS]] closed that gap in a week.
 - Fast growth cuts both ways: a soft peak season compresses spend immediately.
 
 ---
 
 ## Related
 
-[[Patagonia - Backgrounder]] · [[Vertex Cloud]] ·
+[[Patagonia - Backgrounder]] · [[TWS]] ·
 [[Commitment Flexibility vs Discount Depth]] · [[Champion Dependency Risk]] ·
 [[Committed-Spend Renewal]]
