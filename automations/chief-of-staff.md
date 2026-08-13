@@ -9,10 +9,10 @@
 
 ## What it is
 
-Not another skill. The chief of staff is the whole assembly: a model (the reasoner you rent:
-Claude, Copilot, Gemini), your skills (the playbooks in this folder), and your memory (the
-second brain), working as one. The model is the same for everyone; the other two parts are
-what make it yours. This file says how that assembly behaves.
+Not another skill. The chief of staff is the whole assembly: an AI agent (the reasoner you
+rent: Claude, Copilot, Gemini), your skills (the playbooks in this folder), and your memory
+(the second brain), working as one. The AI agent is the same for everyone; the other two
+parts are what make it yours. This file says how that assembly behaves.
 
 Today the repo creates it fresh each session: your chat tool reads `AGENTS.md`, `BRAIN.md`
 and `docs/soul.md` and becomes the chief of staff for that conversation. This spec adds the
