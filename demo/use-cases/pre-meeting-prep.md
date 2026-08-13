@@ -9,7 +9,7 @@ upcoming meeting: who is coming, what happened last time, what the meeting must 
 
 - Your calendar: Outlook or Google. That is where the agent would FIND the meeting.
 - Your transcripts: where do they land today? Granola, Fireflies, Otter (they all ship
-  MCPs), Teams recaps (WorkIQ MCP, or copy-paste)?
+  MCPs), Teams recaps (Microsoft 365 connector, WorkIQ MCP, or copy-paste)?
 - Your memory: what do you already know about these people that no system holds?
 
 ## Connect it: pick your lane
@@ -18,7 +18,7 @@ upcoming meeting: who is coming, what happened last time, what the meeting must 
 |---|---|
 | Granola user | Connect the official Granola MCP: two minutes, and your meetings flow in |
 | Fireflies / Otter | They ship MCPs too: connect one the same way, or export a transcript tonight |
-| Teams shop | Connect the WorkIQ MCP and your meeting history is queryable. Fallback: copy a recap into a file |
+| Teams shop | Microsoft 365 connector in Claude, or the WorkIQ MCP. Fallback: copy a recap into a file |
 | Calendar | Built-in connector: connect it FIRST, one click in Settings > Connectors |
 
 **How to connect it:**
@@ -26,10 +26,11 @@ upcoming meeting: who is coming, what happened last time, what the meeting must 
 **Calendar (do this first, it is a built-in connector):**
 
 1. Claude Desktop > **Settings > Connectors**.
-2. Find Google Calendar > **Connect**. Sign in and approve in the browser.
+2. Find **Google Calendar**, or **Microsoft 365** for Outlook calendar > **Connect**.
+   Sign in and approve in the browser (Microsoft 365 needs your WORK account).
 3. Test: "what is my next external meeting?"
-4. No connector for your calendar (corporate Outlook)? Paste the invite into the chat:
-   subject, time, attendees.
+4. Sign-in blocked on an admin approval screen? Paste the invite into the chat tonight:
+   subject, time, attendees. Send the IT request Friday.
 
 **Granola (every MCP below connects with these same moves):**
 
@@ -48,9 +49,11 @@ copy a transcript out of the app into `raw/_inbox/`.
 
 **Teams:**
 
-1. Connect the WorkIQ MCP, same moves. Microsoft folks: ask Josefina, she knows the
-   internal ones.
-2. Fallback: open the meeting recap, copy the transcript into a file in `raw/_inbox/`.
+1. In Claude: connect the **Microsoft 365** connector (Settings > Connectors > Microsoft
+   365 > Connect, work account) and your Teams chats and meetings become readable.
+2. On Copilot: connect the WorkIQ MCP, same moves as Granola. Microsoft folks: ask
+   Josefina, she knows the internal ones.
+3. Fallback: open the meeting recap, copy the transcript into a file in `raw/_inbox/`.
 
 **On Copilot instead of Claude:**
 

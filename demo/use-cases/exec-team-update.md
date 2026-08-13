@@ -17,7 +17,7 @@ channel in front of everyone.
 | Your situation | Do this tonight |
 |---|---|
 | Slack shop | The Slack connector is one click in Claude Desktop: connect it and deliver live |
-| Teams shop | Copilot already talks to Teams: build there and deliver with no copy-paste. On Claude, draft on screen and paste |
+| Teams shop | Claude connects via the Microsoft 365 connector (Teams chats + channels); Copilot talks to Teams natively |
 | Email updates | Draft on screen tonight; the mail connector is a later upgrade |
 | No connection | The draft on screen IS the demo. Delivery is plumbing |
 
@@ -28,6 +28,17 @@ channel in front of everyone.
 1. Claude Desktop > **Settings > Connectors**.
 2. Find Slack > **Connect**. Sign in to YOUR workspace in the browser and approve.
 3. Test: "post 'test' to my own DM in Slack." Delete the test after.
+
+**Teams from Claude (the Microsoft 365 connector):**
+
+1. Claude Desktop > **Settings > Connectors**.
+2. Find Microsoft 365 > **Connect**. Sign in with your WORK Microsoft account (personal
+   @outlook.com accounts do not work).
+3. Test: "list my Teams channels."
+
+Available on every Claude plan, but a Microsoft Entra admin has to grant a one-time
+consent. If sign-in dies on an approval screen, that is the IT request to send Friday;
+tonight, draft on screen and paste.
 
 **Teams with Copilot:**
 

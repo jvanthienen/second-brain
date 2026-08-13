@@ -36,9 +36,15 @@ The one-click lane. Used by: Exec & Team Update, Pre-Meeting Prep (calendar), Ne
 delivery.
 
 1. Claude Desktop > **Settings > Connectors**.
-2. Find Slack (or Google Calendar, Gmail) > **Connect**.
+2. Find Slack (or Microsoft 365, Google Calendar, Gmail) > **Connect**.
 3. Your browser opens: sign in to YOUR workspace and approve.
 4. Back in the chat, test it: "post 'test' to my own DM in Slack." Delete the test after.
+
+**Microsoft 365** is a built-in connector too, on every Claude plan: Outlook mail and
+calendar, Teams chats and channels, SharePoint and OneDrive. It needs a WORK Microsoft
+account (personal @outlook.com does not work), and a Microsoft Entra admin has to grant a
+one-time consent: if sign-in dies on an approval screen, that is the IT request to send
+Friday.
 
 Corporate warning: if sign-in dies on a company SSO screen, that is your IT approval
 process talking. Use the fallback tonight; send the request Friday.
