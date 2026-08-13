@@ -13,7 +13,7 @@
 Sofia's framing up front: *"I want this renewal to happen, so I'm going to tell you what you're
 getting wrong."*
 
-## On the cost review
+## 1. They are reviewing prices with TWS
 
 It is **not** a routine internal exercise. Finance engaged **TWS** in May and has been
 running a formal benchmark of our pricing against theirs. Sofia has seen the comparison deck.
@@ -21,7 +21,7 @@ running a formal benchmark of our pricing against theirs. Sofia has seen the com
 I told her Tom described it in June as routine and not aimed at us. She said Tom "probably
 believes that — he's not in those meetings."
 
-## On egress
+## 2. On egress - it is not a priority for Rachel, only Daniel
 
 This is the part that stopped me.
 
@@ -31,7 +31,7 @@ This is the part that stopped me.
 I said we'd been building a proposal on it for two months. Sofia's response: *"It's a fine thing
 to do, it's just not the thing that decides this."*
 
-## What Rachel actually cares about
+## 3. What Rachel actually cares about: commitment flexibility
 
 **Commitment flexibility.** Not price, not discount depth.
 
